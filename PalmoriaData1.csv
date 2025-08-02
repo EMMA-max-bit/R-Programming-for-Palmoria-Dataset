@@ -1,0 +1,1246 @@
+Name,Gender,Department,Location,BonusRate,Salary,BonusAmount,TotalPaid,Rating
+Stefa Eggleston,Male,Sales,Kaduna,0.021,"$88,380.","$1,856.","$90,236.",Average
+Dorolice Farry,Female,Sales,Kaduna,0.021,"$76,300.","$1,602.","$77,902.",Average
+Elliot Tuplin,Female,Sales,Kaduna,0.021,"$44,530.",$935.,"$45,465.",Average
+Iain Wiburn,Female,Sales,Kaduna,0.021,"$84,760.","$1,780.","$86,540.",Average
+Beatrix Schoales,Male,Sales,Kaduna,0.021,"$114,010.","$2,394.","$116,404.",Average
+Dyna Doucette,Male,Sales,Abuja,0.021,"$103,550.","$2,175.","$105,725.",Average
+Millie Fiveash,Female,Sales,Kaduna,0.021,"$57,080.","$1,199.","$58,279.",Average
+Carry Loblie,Female,Sales,Kaduna,0.021,"$47,550.",$999.,"$48,549.",Average
+Isadora Maunsell,Male,Sales,Abuja,0.021,"$78,490.","$1,648.","$80,138.",Average
+Florie Tortoise,Female,Sales,Abuja,0.021,"$35,930.",$755.,"$36,685.",Average
+Caro Chappel,Female,Sales,Kaduna,0.021,"$104,410.","$2,193.","$106,603.",Average
+Alexine Portail,Female,Sales,Lagos,0.021,"$60,330.","$1,267.","$61,597.",Average
+Duffie Ibel,Male,Sales,Kaduna,0.021,"$61,010.","$1,281.","$62,291.",Average
+Louise Lamming,Female,Sales,Lagos,0.021,"$41,930.",$881.,"$42,811.",Average
+Shelley Moncreiffe,Male,Sales,Abuja,0.021,"$108,360.","$2,276.","$110,636.",Average
+Brig Dewi,Male,Sales,Lagos,0.021,"$108,250.","$2,273.","$110,523.",Average
+Stan Tolliday,Female,Sales,Lagos,0.021,"$39,540.",$830.,"$40,370.",Average
+Fidela Artis,Female,Sales,Lagos,0.021,"$78,020.","$1,638.","$79,658.",Average
+Putnem Manchester,Male,Sales,Lagos,0.021,"$70,360.","$1,478.","$71,838.",Average
+Mariette Daymont,Female,Sales,Abuja,0.021,"$99,530.","$2,090.","$101,620.",Average
+Verney Sloegrave,Male,Sales,Kaduna,0.021,"$84,500.","$1,774.","$86,274.",Average
+Cathyleen Hurch,Female,Sales,Lagos,0.021,"$49,390.","$1,037.","$50,427.",Average
+Joyce Esel,Male,Sales,Kaduna,0.021,"$101,390.","$2,129.","$103,519.",Average
+Sandi Labat,Male,Sales,Abuja,0.021,"$60,140.","$1,263.","$61,403.",Average
+Francoise Godbold,Male,Sales,Kaduna,0.021,"$46,350.",$973.,"$47,323.",Average
+My Hanscome,Male,Sales,Lagos,0.021,"$59,430.","$1,248.","$60,678.",Average
+Pauletta Falkus,Male,Sales,Kaduna,0.021,"$33,560.",$705.,"$34,265.",Average
+Deck McCallion,Male,Sales,Abuja,0.021,"$33,890.",$712.,"$34,602.",Average
+Grady Crosgrove,Male,Sales,Kaduna,0.021,"$77,910.","$1,636.","$79,546.",Average
+Antonetta Coggeshall,Male,Sales,Kaduna,0.021,"$96,750.","$2,032.","$98,782.",Average
+Estell Kingsland,Male,Sales,Kaduna,0.021,"$32,190.",$676.,"$32,866.",Average
+Agnes Collicott,Female,Sales,Abuja,0.021,"$83,750.","$1,759.","$85,509.",Average
+Ambros Murthwaite,Male,Sales,Lagos,0.021,"$70,610.","$1,483.","$72,093.",Average
+Justino Chapiro,Male,Sales,Lagos,0.021,"$71,030.","$1,492.","$72,522.",Average
+Roselle Wandrach,Male,Sales,Abuja,0.021,"$91,310.","$1,918.","$93,228.",Average
+Lisle Danahar,Male,Sales,Kaduna,0.021,"$75,990.","$1,596.","$77,586.",Average
+Bryana Loyns,Male,Sales,Kaduna,0.021,"$55,280.","$1,161.","$56,441.",Average
+Tallie Chaikovski,Male,Sales,Lagos,0.021,"$83,190.","$1,747.","$84,937.",Average
+Freda Legan,Female,Sales,Kaduna,0.021,"$102,130.","$2,145.","$104,275.",Average
+Fairfax Wallsam,Male,Sales,Abuja,0.021,"$88,590.","$1,860.","$90,450.",Average
+Lion Adcock,Female,Legal,Lagos,0.021,"$63,710.","$1,338.","$65,048.",Average
+Rhianna McLeoid,Male,Legal,Kaduna,0.021,"$114,900.","$2,413.","$117,313.",Average
+Madelene Upcott,Male,Legal,Abuja,0.021,"$109,190.","$2,293.","$111,483.",Average
+Steven Labat,Male,Legal,Kaduna,0.021,"$37,110.",$779.,"$37,889.",Average
+Lanny Beaney,Male,Legal,Abuja,0.021,"$38,730.",$813.,"$39,543.",Average
+Ollie Schirak,Male,Legal,Lagos,0.021,"$48,690.","$1,022.","$49,712.",Average
+Desi Peniman,Female,Legal,Lagos,0.021,"$31,090.",$653.,"$31,743.",Average
+Mord Cromblehome,Male,Legal,Kaduna,0.021,"$57,910.","$1,216.","$59,126.",Average
+Wilt Wayvill,Female,Legal,Kaduna,0.021,"$99,750.","$2,095.","$101,845.",Average
+Cathi Gillbee,Male,Legal,Abuja,0.021,"$41,790.",$878.,"$42,668.",Average
+Shari Pickston,Male,Legal,Abuja,0.021,"$96,320.","$2,023.","$98,343.",Average
+Rodrigo Congdon,Female,Legal,Lagos,0.021,"$117,940.","$2,477.","$120,417.",Average
+Loralyn Bruton,Male,Legal,Abuja,0.021,"$39,960.",$839.,"$40,799.",Average
+Marline Wahncke,Male,Legal,Abuja,0.021,"$72,840.","$1,530.","$74,370.",Average
+Berenice Osbaldstone,Female,Legal,Abuja,0.021,"$58,280.","$1,224.","$59,504.",Average
+Carolina Blumsom,Male,Legal,Abuja,0.021,"$28,580.",$600.,"$29,180.",Average
+Baudoin Dummigan,Male,Legal,Kaduna,0.021,"$114,510.","$2,405.","$116,915.",Average
+Letizia Hasselby,Male,Legal,Abuja,0.021,"$61,790.","$1,298.","$63,088.",Average
+Mirna Etoile,Female,Legal,Kaduna,0.021,"$29,970.",$629.,"$30,599.",Average
+Derk Bosson,Female,Legal,Lagos,0.021,"$75,870.","$1,593.","$77,463.",Average
+Saunders Blumson,Male,Legal,Abuja,0.021,"$56,370.","$1,184.","$57,554.",Average
+Xylina Pargetter,Female,Legal,Kaduna,0.021,"$109,790.","$2,306.","$112,096.",Average
+Joshia Farris,Female,Legal,Kaduna,0.021,"$36,740.",$772.,"$37,512.",Average
+Sandy Cadden,Female,Legal,Lagos,0.021,"$95,980.","$2,016.","$97,996.",Average
+Trudie Couch,Female,Legal,Lagos,0.021,"$43,110.",$905.,"$44,015.",Average
+Eldredge MacClure,Male,Legal,Kaduna,0.021,"$46,990.",$987.,"$47,977.",Average
+Bebe Pollicott,Female,Legal,Kaduna,0.021,"$87,740.","$1,843.","$89,583.",Average
+Leela Eckart,Male,Legal,Kaduna,0.021,"$90,340.","$1,897.","$92,237.",Average
+Jori Ashleigh,Male,Legal,Abuja,0.021,"$64,270.","$1,350.","$65,620.",Average
+Eleni O'Quin,Male,Legal,Lagos,0.021,"$89,020.","$1,869.","$90,889.",Average
+Alic Bagg,Male,Legal,Kaduna,0.021,"$113,750.","$2,389.","$116,139.",Average
+Karita Vasyanin,Male,Legal,Lagos,0.021,"$93,080.","$1,955.","$95,035.",Average
+Sile Whorton,Female,Legal,Abuja,0.021,"$61,210.","$1,285.","$62,495.",Average
+Sandie Anthonies,Male,Legal,Kaduna,0.021,"$33,410.",$702.,"$34,112.",Average
+Hiram Merkle,Male,Legal,Kaduna,0.021,"$116,090.","$2,438.","$118,528.",Average
+Desi Peniman,Female,Legal,Kaduna,0.021,"$31,090.",$653.,"$31,743.",Average
+Granny Spencelayh,Male,Legal,Abuja,0.021,"$99,460.","$2,089.","$101,549.",Average
+Hedwiga Ingarfield,Female,Legal,Kaduna,0.021,"$38,250.",$803.,"$39,053.",Average
+Adey Ryal,Female,Legal,Lagos,0.021,"$32,500.",$682.,"$33,182.",Average
+Dyanne Strafen,Male,Engineering,Lagos,0.035,"$113,800.","$3,983.","$117,783.",Average
+Mable Phythian,Female,Engineering,Kaduna,0.035,"$30,000.","$1,050.","$31,050.",Average
+Konstanze Wyleman,Male,Engineering,Abuja,0.035,"$90,800.","$3,178.","$93,978.",Average
+Loren Rettie,Female,Engineering,Kaduna,0.035,"$96,000.","$3,360.","$99,360.",Average
+Courtney Given,Male,Engineering,Abuja,0.035,"$43,600.","$1,526.","$45,126.",Average
+Angeline Christophersen,Female,Engineering,Kaduna,0.035,"$86,940.","$3,043.","$89,983.",Average
+Tamara Couvet,Female,Engineering,Abuja,0.035,"$61,050.","$2,137.","$63,187.",Average
+Gigi Bohling,Male,Engineering,Lagos,0.035,"$74,550.","$2,609.","$77,159.",Average
+Lane Monteaux,Female,Engineering,Kaduna,0.035,"$109,980.","$3,849.","$113,829.",Average
+Honoria Cootes,Female,Engineering,Abuja,0.035,"$115,640.","$4,047.","$119,687.",Average
+Violetta Vial,Male,Engineering,Kaduna,0.035,"$68,970.","$2,414.","$71,384.",Average
+Luca Wolstenholme,Male,Engineering,Kaduna,0.035,"$53,180.","$1,861.","$55,041.",Average
+Ignacio Delion,Female,Engineering,Kaduna,0.035,"$113,690.","$3,979.","$117,669.",Average
+Maggee Stiggles,Female,Engineering,Abuja,0.035,"$38,930.","$1,363.","$40,293.",Average
+Granville Stetson,Female,Engineering,Lagos,0.035,"$111,190.","$3,892.","$115,082.",Average
+Eleonore Airdrie,Female,Engineering,Abuja,0.035,"$97,110.","$3,399.","$100,509.",Average
+Devinne Tuny,Male,Engineering,Kaduna,0.035,"$39,970.","$1,399.","$41,369.",Average
+Dotty Strutley,Female,Engineering,Lagos,0.035,"$41,980.","$1,469.","$43,449.",Average
+Korney Bockings,Male,Engineering,Lagos,0.035,"$40,530.","$1,419.","$41,949.",Average
+Kingsley Hagard,Male,Engineering,Kaduna,0.035,"$32,810.","$1,148.","$33,958.",Average
+Abran Danielsky,Female,Engineering,Kaduna,0.035,"$32,720.","$1,145.","$33,865.",Average
+Nelli Schoolfield,Female,Engineering,Kaduna,0.035,"$109,870.","$3,845.","$113,715.",Average
+Abigael Basire,Male,Engineering,Abuja,0.035,"$61,620.","$2,157.","$63,777.",Average
+Jehu Rudeforth,Female,Engineering,Abuja,0.035,"$60,130.","$2,105.","$62,235.",Average
+Ondrea Banfield,Female,Engineering,Kaduna,0.035,"$107,790.","$3,773.","$111,563.",Average
+Jeannie Petracco,Female,Engineering,Abuja,0.035,"$94,820.","$3,319.","$98,139.",Average
+Niko MacGille,Female,Engineering,Lagos,0.035,"$88,430.","$3,095.","$91,525.",Average
+Eward Astlett,Male,Engineering,Lagos,0.035,"$41,670.","$1,458.","$43,128.",Average
+Kelley Rounds,Female,Engineering,Kaduna,0.035,"$114,810.","$4,018.","$118,828.",Average
+Allene Gobbet,Female,Engineering,Abuja,0.035,"$78,390.","$2,744.","$81,134.",Average
+Jordain Cyster,Female,Engineering,Kaduna,0.035,"$75,870.","$2,655.","$78,525.",Average
+Willi Vasey,Female,Support,Kaduna,0.028,"$43,020.","$1,205.","$44,225.",Average
+Peggi Bullas,Male,Support,Abuja,0.028,"$56,620.","$1,585.","$58,205.",Average
+Katerine Lohden,Male,Support,Kaduna,0.028,"$115,090.","$3,223.","$118,313.",Average
+Cull Nannetti,Male,Support,Kaduna,0.028,"$68,090.","$1,907.","$69,997.",Average
+Aurelea Devitt,Male,Support,Abuja,0.028,"$58,840.","$1,648.","$60,488.",Average
+Evyn Fyrth,Male,Support,Kaduna,0.028,"$90,080.","$2,522.","$92,602.",Average
+Garrick Hadwick,Male,Support,Abuja,0.028,"$117,810.","$3,299.","$121,109.",Average
+Kristofor Powner,Male,Support,Lagos,0.028,"$69,340.","$1,942.","$71,282.",Average
+Farrel Vanyatin,Male,Support,Lagos,0.028,"$118,120.","$3,307.","$121,427.",Average
+Koral Gerriet,Male,Support,Abuja,0.028,"$30,080.",$842.,"$30,922.",Average
+Win Arthurs,Female,Support,Abuja,0.028,"$43,200.","$1,210.","$44,410.",Average
+Chauncey Schild,Female,Support,Abuja,0.028,"$107,340.","$3,006.","$110,346.",Average
+Griz Thorington,Male,Support,Abuja,0.028,"$47,670.","$1,335.","$49,005.",Average
+Foss Asquez,Male,Support,Abuja,0.028,"$92,190.","$2,581.","$94,771.",Average
+Lia Lurner,Female,Support,Abuja,0.028,"$77,260.","$2,163.","$79,423.",Average
+Shaylah Owbrick,Male,Support,Abuja,0.028,"$56,900.","$1,593.","$58,493.",Average
+Janaya MacGinlay,Female,Support,Abuja,0.028,"$33,050.",$925.,"$33,975.",Average
+Sabina Scorrer,Female,Support,Kaduna,0.028,"$70,930.","$1,986.","$72,916.",Average
+Nananne Gehringer,Male,Support,Lagos,0.028,"$104,800.","$2,934.","$107,734.",Average
+Ingunna Wainscoat,Male,Support,Kaduna,0.028,"$73,240.","$2,051.","$75,291.",Average
+Nolan Tortis,Male,Support,Abuja,0.028,"$36,710.","$1,028.","$37,738.",Average
+Doralyn Segar,Female,Support,Kaduna,0.028,"$30,000.",$840.,"$30,840.",Average
+Verla Timmis,Male,Support,Abuja,0.028,"$54,140.","$1,516.","$55,656.",Average
+Barbara-anne Kenchington,Female,Support,Abuja,0.028,"$88,030.","$2,465.","$90,495.",Average
+Evangelina Lergan,Male,Support,Kaduna,0.028,"$61,210.","$1,714.","$62,924.",Average
+Freddie Johnikin,Male,Support,Lagos,0.028,"$64,960.","$1,819.","$66,779.",Average
+Adela Dowsett,Male,Support,Lagos,0.028,"$95,020.","$2,661.","$97,681.",Average
+Lorrie Derycot,Female,Support,Lagos,0.028,"$93,270.","$2,612.","$95,882.",Average
+Clarine Shambrooke,Male,Support,Lagos,0.028,"$93,160.","$2,608.","$95,768.",Average
+Effie Vasilov,Male,Support,Lagos,0.028,"$60,010.","$1,680.","$61,690.",Average
+Cyndia Skedge,Male,Support,Abuja,0.028,"$52,630.","$1,474.","$54,104.",Average
+Maximo Ungerecht,Male,Support,Lagos,0.028,"$96,250.","$2,695.","$98,945.",Average
+Candace Hanlon,Male,Support,Lagos,0.028,"$46,280.","$1,296.","$47,576.",Average
+Oby Sorrel,Female,Support,Kaduna,0.028,"$58,940.","$1,650.","$60,590.",Average
+Hyacinthie Braybrooke,Female,Support,Abuja,0.028,"$68,900.","$1,929.","$70,829.",Average
+Jamal Beagen,Female,Support,Kaduna,0.028,"$35,830.","$1,003.","$36,833.",Average
+Sisely Gatsby,Female,Support,Kaduna,0.028,"$85,670.","$2,399.","$88,069.",Average
+Emmanuel Westrey,Female,Support,Kaduna,0.028,"$87,400.","$2,447.","$89,847.",Average
+Itch Tinklin,Female,Support,Abuja,0.028,"$77,110.","$2,159.","$79,269.",Average
+Oby Sorrel,Female,Support,Kaduna,0.028,"$58,940.","$1,650.","$60,590.",Average
+Kay Edling,Male,Support,Lagos,0.028,"$38,330.","$1,073.","$39,403.",Average
+Floyd Cowgill,Male,Support,Kaduna,0.028,"$37,060.","$1,038.","$38,098.",Average
+Elia Cockton,Female,Support,Kaduna,0.028,"$75,280.","$2,108.","$77,388.",Average
+Beverie Moffet,Female,Support,Kaduna,0.028,"$75,970.","$2,127.","$78,097.",Average
+Chelsea Itzak,Male,Support,Kaduna,0.028,"$61,100.","$1,711.","$62,811.",Average
+Shaylyn Ransbury,Female,Support,Abuja,0.028,"$100,370.","$2,810.","$103,180.",Average
+Adella Hartshorne,Female,Human Resources,Lagos,0.027,"$41,160.","$1,111.","$42,271.",Average
+Brit Hamnett,Male,Human Resources,Abuja,0.027,"$75,540.","$2,040.","$77,580.",Average
+Vasily MacVanamy,Male,Human Resources,Lagos,0.027,"$84,470.","$2,281.","$86,751.",Average
+Robinia Scholling,Female,Human Resources,Kaduna,0.027,"$100,730.","$2,720.","$103,450.",Average
+Alida Welman,Male,Human Resources,Kaduna,0.027,"$69,860.","$1,886.","$71,746.",Average
+Brose MacCorkell,Female,Human Resources,Kaduna,0.027,"$35,940.",$970.,"$36,910.",Average
+Josepha Keningham,Male,Human Resources,Kaduna,0.027,"$42,990.","$1,161.","$44,151.",Average
+Crawford Scad,Male,Human Resources,Kaduna,0.027,"$72,880.","$1,968.","$74,848.",Average
+Juditha Hatherleigh,Female,Human Resources,Kaduna,0.027,"$34,830.",$940.,"$35,770.",Average
+Philis Rowlstone,Female,Human Resources,Lagos,0.027,"$85,740.","$2,315.","$88,055.",Average
+Crawford Scad,Male,Human Resources,Lagos,0.027,"$72,880.","$1,968.","$74,848.",Average
+Tadio Audritt,Male,Human Resources,Abuja,0.027,"$99,450.","$2,685.","$102,135.",Average
+Riccardo Hagan,Male,Human Resources,Abuja,0.027,"$86,560.","$2,337.","$88,897.",Average
+Joana Bartocci,Male,Human Resources,Kaduna,0.027,"$52,670.","$1,422.","$54,092.",Average
+Margot Royds,Female,Human Resources,Lagos,0.027,"$106,930.","$2,887.","$109,817.",Average
+Northrup Aires,Female,Human Resources,Kaduna,0.027,"$118,300.","$3,194.","$121,494.",Average
+Andrea Becker,Female,Human Resources,Kaduna,0.027,"$46,160.","$1,246.","$47,406.",Average
+Ardyce Eacott,Female,Human Resources,Kaduna,0.027,"$92,470.","$2,497.","$94,967.",Average
+Pippy Roxby,Female,Human Resources,Kaduna,0.027,"$106,490.","$2,875.","$109,365.",Average
+Minetta Parsons,Female,Human Resources,Abuja,0.027,"$110,770.","$2,991.","$113,761.",Average
+Niles Mahomet,Female,Human Resources,Abuja,0.027,"$50,020.","$1,351.","$51,371.",Average
+Efrem Mathonnet,Female,Human Resources,Kaduna,0.027,"$107,020.","$2,890.","$109,910.",Average
+Tyson Prescote,Male,Human Resources,Kaduna,0.027,"$29,420.",$794.,"$30,214.",Average
+Pembroke Siflet,Female,Human Resources,Abuja,0.027,"$59,550.","$1,608.","$61,158.",Average
+Royal Nowakowska,Male,Human Resources,Kaduna,0.027,"$79,570.","$2,148.","$81,718.",Average
+Jo Benoi,Female,Human Resources,Kaduna,0.027,"$117,520.","$3,173.","$120,693.",Average
+Bette-ann Leafe,Male,Human Resources,Abuja,0.027,"$93,500.","$2,524.","$96,024.",Average
+Lincoln Greatex,Male,Human Resources,Abuja,0.027,"$34,650.",$936.,"$35,586.",Average
+Bryant Scamp,Female,Human Resources,Kaduna,0.027,"$29,810.",$805.,"$30,615.",Average
+Darcy Brewitt,Male,Human Resources,Kaduna,0.027,"$116,670.","$3,150.","$119,820.",Average
+Hedvige Stelfox,Female,Human Resources,Abuja,0.027,"$33,800.",$913.,"$34,713.",Average
+Benny Karolovsky,Male,Human Resources,Abuja,0.027,"$115,440.","$3,117.","$118,557.",Average
+Anjanette Ferre,Male,Human Resources,Abuja,0.027,"$67,960.","$1,835.","$69,795.",Average
+Krysta Elacoate,Male,Human Resources,Kaduna,0.027,"$106,930.","$2,887.","$109,817.",Average
+Blythe Clipston,Female,Human Resources,Kaduna,0.027,"$35,670.",$963.,"$36,633.",Average
+Joana Bartocci,Male,Human Resources,Abuja,0.027,"$52,670.","$1,422.","$54,092.",Average
+Hinda Label,Female,Human Resources,Kaduna,0.027,"$92,700.","$2,503.","$95,203.",Average
+Saundra O'Connel,Male,Human Resources,Abuja,0.027,"$85,330.","$2,304.","$87,634.",Average
+Daisie McNeice,Male,Human Resources,Kaduna,0.027,"$50,310.","$1,358.","$51,668.",Average
+Corabel Luberto,Female,Human Resources,Kaduna,0.027,"$57,820.","$1,561.","$59,381.",Average
+Shay Chasney,Male,Human Resources,Lagos,0.027,"$72,550.","$1,959.","$74,509.",Average
+Cecilla Northen,Male,Human Resources,Abuja,0.027,"$92,870.","$2,507.","$95,377.",Average
+Monti Burdus,Female,Human Resources,Abuja,0.027,"$39,650.","$1,071.","$40,721.",Average
+Selby Hacker,Male,Business Development,Lagos,0.024,"$37,800.",$907.,"$38,707.",Average
+Valentia Etteridge,Female,Business Development,Lagos,0.024,"$118,100.","$2,834.","$120,934.",Average
+Katya Hundy,Male,Business Development,Lagos,0.024,"$88,510.","$2,124.","$90,634.",Average
+Wyn Treadger,Female,Business Development,Abuja,0.024,"$69,190.","$1,661.","$70,851.",Average
+Forester Feakins,Male,Business Development,Abuja,0.024,"$47,290.","$1,135.","$48,425.",Average
+Duky Wallace,Male,Business Development,Kaduna,0.024,"$102,140.","$2,451.","$104,591.",Average
+Renaldo Thomassin,Male,Business Development,Kaduna,0.024,"$73,360.","$1,761.","$75,121.",Average
+Aldrich Glenny,Male,Business Development,Kaduna,0.024,"$90,880.","$2,181.","$93,061.",Average
+Felicdad Heibel,Male,Business Development,Abuja,0.024,"$60,800.","$1,459.","$62,259.",Average
+Murial Ickovici,Female,Business Development,Lagos,0.024,"$72,500.","$1,740.","$74,240.",Average
+Timmy Brenston,Male,Business Development,Lagos,0.024,"$43,700.","$1,049.","$44,749.",Average
+Hatti Vezey,Female,Business Development,Kaduna,0.024,"$116,240.","$2,790.","$119,030.",Average
+Colby Reuven,Male,Business Development,Lagos,0.024,"$101,790.","$2,443.","$104,233.",Average
+Pooh Splevins,Female,Business Development,Lagos,0.024,"$31,020.",$744.,"$31,764.",Average
+Cly Vizard,Male,Business Development,Abuja,0.024,"$51,520.","$1,236.","$52,756.",Average
+Gideon Hehir,Female,Business Development,Kaduna,0.024,"$66,510.","$1,596.","$68,106.",Average
+Maximo Guirard,Female,Business Development,Kaduna,0.024,"$37,020.",$888.,"$37,908.",Average
+Margy Elward,Male,Business Development,Lagos,0.024,"$103,670.","$2,488.","$106,158.",Average
+Thedrick Bothwell,Male,Business Development,Kaduna,0.024,"$69,760.","$1,674.","$71,434.",Average
+Aileen McCritchie,Male,Business Development,Lagos,0.024,"$80,170.","$1,924.","$82,094.",Average
+Oona Donan,Female,Business Development,Lagos,0.024,"$88,360.","$2,121.","$90,481.",Average
+Zebulon Allmen,Male,Business Development,Abuja,0.024,"$52,140.","$1,251.","$53,391.",Average
+Gray Seamon,Female,Business Development,Kaduna,0.024,"$78,540.","$1,885.","$80,425.",Average
+Dorise Labat,Male,Business Development,Kaduna,0.024,"$101,610.","$2,439.","$104,049.",Average
+Sheff Gerdts,Male,Business Development,Abuja,0.024,"$89,160.","$2,140.","$91,300.",Average
+Patience Noot,Female,Business Development,Abuja,0.024,"$49,520.","$1,188.","$50,708.",Average
+Charmane Heistermann,Female,Business Development,Kaduna,0.024,"$86,560.","$2,077.","$88,637.",Average
+Blaire Ruckman,Male,Business Development,Kaduna,0.024,"$61,700.","$1,481.","$63,181.",Average
+Billi Fellgate,Female,Business Development,Kaduna,0.024,"$68,980.","$1,656.","$70,636.",Average
+Melodie Torresi,Female,Business Development,Lagos,0.024,"$75,090.","$1,802.","$76,892.",Average
+Milton Lilie,Female,Business Development,Kaduna,0.024,"$46,470.","$1,115.","$47,585.",Average
+Trix Lutsch,Male,Business Development,Lagos,0.024,"$106,400.","$2,554.","$108,954.",Average
+Nicola Kiely,Female,Business Development,Kaduna,0.024,"$93,740.","$2,250.","$95,990.",Average
+Cyrillus Garci,Male,Business Development,Lagos,0.024,"$100,360.","$2,409.","$102,769.",Average
+Allyce Hincham,Male,Business Development,Lagos,0.024,"$101,420.","$2,434.","$103,854.",Average
+Frasier Straw,Male,Business Development,Lagos,0.024,"$71,370.","$1,713.","$73,083.",Average
+Phylys Benitez,Female,Product Management,Abuja,0.032,"$84,420.","$2,701.","$87,121.",Average
+Hobard Benninger,Female,Product Management,Abuja,0.032,"$86,920.","$2,781.","$89,701.",Average
+Reidar Skechley,Male,Product Management,Abuja,0.032,"$40,770.","$1,305.","$42,075.",Average
+Layton Crayden,Male,Product Management,Kaduna,0.032,"$40,450.","$1,294.","$41,744.",Average
+Tris Hynard,Female,Product Management,Kaduna,0.032,"$29,080.",$931.,"$30,011.",Average
+Sarene Creeboe,Male,Product Management,Kaduna,0.032,"$35,830.","$1,147.","$36,977.",Average
+Daron Biaggioli,Female,Product Management,Kaduna,0.032,"$112,550.","$3,602.","$116,152.",Average
+Gamaliel Ewins,Male,Product Management,Abuja,0.032,"$119,660.","$3,829.","$123,489.",Average
+Merrel Blind,Female,Product Management,Lagos,0.032,"$82,120.","$2,628.","$84,748.",Average
+Mallory Goldsberry,Male,Product Management,Abuja,0.032,"$29,610.",$948.,"$30,558.",Average
+Nickolai Artin,Female,Product Management,Lagos,0.032,"$110,910.","$3,549.","$114,459.",Average
+Althea Bronger,Male,Product Management,Kaduna,0.032,"$104,340.","$3,339.","$107,679.",Average
+Ansley Gounel,Female,Product Management,Lagos,0.032,"$38,440.","$1,230.","$39,670.",Average
+Fonzie O'Shea,Male,Product Management,Kaduna,0.032,"$80,360.","$2,572.","$82,932.",Average
+Addy Pimblett,Male,Product Management,Lagos,0.032,"$66,460.","$2,127.","$68,587.",Average
+Joyce Leyband,Female,Product Management,Lagos,0.032,"$68,200.","$2,182.","$70,382.",Average
+Antonino Forsdicke,Male,Product Management,Lagos,0.032,"$66,370.","$2,124.","$68,494.",Average
+Aeriela Aickin,Male,Product Management,Abuja,0.032,"$37,550.","$1,202.","$38,752.",Average
+Michael Sidry,Male,Product Management,Abuja,0.032,"$81,260.","$2,600.","$83,860.",Average
+Tamar MacGilfoyle,Male,Product Management,Kaduna,0.032,"$47,270.","$1,513.","$48,783.",Average
+Natalee Craiker,Male,Product Management,Abuja,0.032,"$111,230.","$3,559.","$114,789.",Average
+Elwira Lyddiard,Male,Product Management,Abuja,0.032,"$31,280.","$1,001.","$32,281.",Average
+Roanne Phizacklea,Female,Product Management,Abuja,0.032,"$35,990.","$1,152.","$37,142.",Average
+Camilla Castle,Female,Product Management,Kaduna,0.032,"$75,480.","$2,415.","$77,895.",Average
+Grier Kidsley,Female,Product Management,Abuja,0.032,"$51,800.","$1,658.","$53,458.",Average
+Gerrard Doorey,Male,Product Management,Abuja,0.032,"$110,200.","$3,526.","$113,726.",Average
+Theresita Chasmer,Female,Product Management,Lagos,0.032,"$106,670.","$3,413.","$110,083.",Average
+Andria Kimpton,Male,Product Management,Abuja,0.032,"$69,120.","$2,212.","$71,332.",Average
+Faun Rickeard,Male,Product Management,Lagos,0.032,"$74,920.","$2,397.","$77,317.",Average
+Antonino Forsdicke,Male,Product Management,Abuja,0.032,"$66,370.","$2,124.","$68,494.",Average
+Curtice Advani,Male,Product Management,Lagos,0.032,"$59,810.","$1,914.","$61,724.",Average
+Archibald Dyzart,Male,Product Management,Abuja,0.032,"$63,020.","$2,017.","$65,037.",Average
+Onofredo Hassan,Male,Product Management,Kaduna,0.032,"$52,220.","$1,671.","$53,891.",Average
+Callie Duckels,Male,Product Management,Abuja,0.032,"$53,760.","$1,720.","$55,480.",Average
+Garey Bird,Female,Product Management,Lagos,0.032,"$31,830.","$1,019.","$32,849.",Average
+Anabal Cooke,Female,Product Management,Kaduna,0.032,"$31,920.","$1,021.","$32,941.",Average
+Tadio Dowdle,Female,Product Management,Kaduna,0.032,"$91,930.","$2,942.","$94,872.",Average
+Cornie Arstall,Female,Product Management,Abuja,0.032,"$69,970.","$2,239.","$72,209.",Average
+Dominic Ortler,Female,Product Management,Abuja,0.032,"$66,610.","$2,132.","$68,742.",Average
+Anni Dinse,Male,Product Management,Lagos,0.032,"$119,670.","$3,829.","$123,499.",Average
+Andria Kimpton,Male,Product Management,Kaduna,0.032,"$69,120.","$2,212.","$71,332.",Average
+Shaun Kyrkeman,Male,Product Management,Kaduna,0.032,"$35,010.","$1,120.","$36,130.",Average
+Alisha Bloschke,Male,Product Management,Abuja,0.032,"$36,480.","$1,167.","$37,647.",Average
+Craggie Whistlecraft,Male,Product Management,Abuja,0.032,"$71,240.","$2,280.","$73,520.",Average
+Tiffani Mecozzi,Female,Training,Lagos,0.04,"$119,750.","$4,790.","$124,540.",Average
+Bernie Gorges,Female,Training,Lagos,0.04,"$99,970.","$3,999.","$103,969.",Average
+Nicol Giacomi,Female,Training,Kaduna,0.04,"$39,750.","$1,590.","$41,340.",Average
+Melisa Knott,Female,Training,Kaduna,0.04,"$86,010.","$3,440.","$89,450.",Average
+Vaughn Carvill,Female,Training,Lagos,0.04,"$84,750.","$3,390.","$88,140.",Average
+Eddy Stolze,Male,Training,Kaduna,0.04,"$47,760.","$1,910.","$49,670.",Average
+Moore Gligoraci,Female,Training,Lagos,0.04,"$49,530.","$1,981.","$51,511.",Average
+Simon Kembery,Male,Training,Lagos,0.04,"$99,750.","$3,990.","$103,740.",Average
+Kellsie Waby,Male,Training,Kaduna,0.04,"$79,570.","$3,183.","$82,753.",Average
+Avigdor Karel,Male,Training,Kaduna,0.04,"$71,210.","$2,848.","$74,058.",Average
+Harwilll Domotor,Male,Training,Kaduna,0.04,"$112,370.","$4,495.","$116,865.",Average
+Marissa Infante,Male,Training,Lagos,0.04,"$78,840.","$3,154.","$81,994.",Average
+Easter Pyke,Female,Training,Abuja,0.04,"$95,680.","$3,827.","$99,507.",Average
+Audry Yu,Female,Training,Abuja,0.04,"$101,190.","$4,048.","$105,238.",Average
+Myrilla Mercik,Female,Training,Kaduna,0.04,"$96,660.","$3,866.","$100,526.",Average
+Hartwell Pratchett,Female,Training,Lagos,0.04,"$42,730.","$1,709.","$44,439.",Average
+Alta Kaszper,Male,Training,Lagos,0.04,"$54,970.","$2,199.","$57,169.",Average
+Martelle Brise,Male,Training,Kaduna,0.04,"$79,520.","$3,181.","$82,701.",Average
+Drusy MacCombe,Male,Training,Kaduna,0.04,"$43,510.","$1,740.","$45,250.",Average
+Liane Bedburrow,Female,Training,Abuja,0.04,"$76,620.","$3,065.","$79,685.",Average
+Osborn Pawle,Male,Training,Abuja,0.04,"$38,030.","$1,521.","$39,551.",Average
+Gretchen Callow,Female,Training,Kaduna,0.04,"$33,920.","$1,357.","$35,277.",Average
+Daphne Francillo,Male,Training,Lagos,0.04,"$63,370.","$2,535.","$65,905.",Average
+Konstantin Timblett,Female,Training,Abuja,0.04,"$56,250.","$2,250.","$58,500.",Average
+Madge McCloughen,Male,Training,Kaduna,0.04,"$91,310.","$3,652.","$94,962.",Average
+Eberto William,Female,Research and Development,Abuja,0.033,"$57,750.","$1,906.","$59,656.",Average
+Vassili Flay,Male,Research and Development,Abuja,0.033,"$108,970.","$3,596.","$112,566.",Average
+Berny Bastide,Male,Research and Development,Kaduna,0.033,"$56,710.","$1,871.","$58,581.",Average
+Augusta Cheetham,Male,Research and Development,Abuja,0.033,"$105,470.","$3,481.","$108,951.",Average
+Cecilio Sprankling,Male,Research and Development,Abuja,0.033,"$109,710.","$3,620.","$113,330.",Average
+Latisha Jolly,Female,Research and Development,Lagos,0.033,"$58,400.","$1,927.","$60,327.",Average
+Debera Gow,Female,Research and Development,Lagos,0.033,"$39,700.","$1,310.","$41,010.",Average
+Jessika Jaycocks,Female,Research and Development,Lagos,0.033,"$67,980.","$2,243.","$70,223.",Average
+Myer McCory,Male,Research and Development,Kaduna,0.033,"$69,710.","$2,300.","$72,010.",Average
+Maritsa Marusic,Male,Research and Development,Kaduna,0.033,"$52,750.","$1,741.","$54,491.",Average
+Rhiamon Mollison,Female,Research and Development,Lagos,0.033,"$59,430.","$1,961.","$61,391.",Average
+Matias Cormack,Male,Research and Development,Kaduna,0.033,"$85,460.","$2,820.","$88,280.",Average
+Ernestus O'Hengerty,Female,Research and Development,Abuja,0.033,"$31,020.","$1,024.","$32,044.",Average
+Stephan Bussel,Male,Research and Development,Kaduna,0.033,"$48,290.","$1,594.","$49,884.",Average
+Jannel Labb,Female,Research and Development,Kaduna,0.033,"$47,910.","$1,581.","$49,491.",Average
+Cyril Medford,Female,Research and Development,Abuja,0.033,"$85,720.","$2,829.","$88,549.",Average
+Ferrell Skepper,Female,Research and Development,Kaduna,0.033,"$30,250.",$998.,"$31,248.",Average
+Rhiamon Mollison,Female,Research and Development,Abuja,0.033,"$59,430.","$1,961.","$61,391.",Average
+Abramo Labbez,Female,Research and Development,Lagos,0.033,"$77,000.","$2,541.","$79,541.",Average
+Genevra Friday,Female,Research and Development,Lagos,0.033,"$50,450.","$1,665.","$52,115.",Average
+Inger Chapelhow,Female,Research and Development,Lagos,0.033,"$84,310.","$2,782.","$87,092.",Average
+Murry Dryburgh,Male,Research and Development,Abuja,0.033,"$69,070.","$2,279.","$71,349.",Average
+Jolynn Lumbley,Male,Research and Development,Abuja,0.033,"$70,020.","$2,311.","$72,331.",Average
+Maritsa Marusic,Male,Research and Development,Abuja,0.033,"$52,750.","$1,741.","$54,491.",Average
+Shari McNee,Male,Research and Development,Lagos,0.033,"$75,880.","$2,504.","$78,384.",Average
+Naoma Cruse,Male,Research and Development,Kaduna,0.033,"$71,540.","$2,361.","$73,901.",Average
+Oates Dinan,Female,Research and Development,Lagos,0.033,"$104,680.","$3,454.","$108,134.",Average
+Bili Sizey,Male,Research and Development,Abuja,0.033,"$36,040.","$1,189.","$37,229.",Average
+Leena Bruckshaw,Male,Research and Development,Lagos,0.033,"$74,280.","$2,451.","$76,731.",Average
+Dayle O'Luney,Female,Research and Development,Lagos,0.033,"$46,750.","$1,543.","$48,293.",Average
+Larry Pioch,Male,Research and Development,Abuja,0.033,"$49,670.","$1,639.","$51,309.",Average
+Fedora Graffin,Male,Research and Development,Lagos,0.033,"$92,500.","$3,052.","$95,552.",Average
+Aloisia Minto,Male,Research and Development,Abuja,0.033,"$41,420.","$1,367.","$42,787.",Average
+Ede Mignot,Female,Research and Development,Kaduna,0.033,"$98,640.","$3,255.","$101,895.",Average
+Mick Tanguy,Female,Research and Development,Lagos,0.033,"$97,400.","$3,214.","$100,614.",Average
+Janina Wolverson,Female,Research and Development,Kaduna,0.033,"$99,680.","$3,289.","$102,969.",Average
+Merrilee Plenty,Female,Research and Development,Abuja,0.033,"$87,620.","$2,891.","$90,511.",Average
+Edgard Irving,Male,Research and Development,Kaduna,0.033,"$87,290.","$2,881.","$90,171.",Average
+Kit Battlestone,Female,Research and Development,Abuja,0.033,"$115,980.","$3,827.","$119,807.",Average
+Dayle O'Luney,Female,Research and Development,Abuja,0.033,"$46,750.","$1,543.","$48,293.",Average
+Giffer Berlin,Female,Research and Development,Kaduna,0.033,"$92,340.","$3,047.","$95,387.",Average
+Rose Shurrocks,Female,Research and Development,Kaduna,0.033,"$32,140.","$1,061.","$33,201.",Average
+Lonny Caen,Female,Research and Development,Lagos,0.033,"$35,980.","$1,187.","$37,167.",Average
+Inger Chapelhow,Female,Research and Development,Abuja,0.033,"$84,310.","$2,782.","$87,092.",Average
+Murry Dryburgh,Male,Research and Development,Kaduna,0.033,"$69,070.","$2,279.","$71,349.",Average
+Laura Gomar,Female,Research and Development,Lagos,0.033,"$36,860.","$1,216.","$38,076.",Average
+Larry Pioch,Male,Research and Development,Abuja,0.033,"$49,670.","$1,639.","$51,309.",Average
+Issy McLevie,Male,Research and Development,Kaduna,0.033,"$84,940.","$2,803.","$87,743.",Average
+Addia Penwright,Male,Research and Development,Abuja,0.033,"$28,130.",$928.,"$29,058.",Average
+Romona Dimmne,Female,Research and Development,Kaduna,0.033,"$48,250.","$1,592.","$49,842.",Average
+Shelbi Aldin,Female,Research and Development,Abuja,0.033,"$40,910.","$1,350.","$42,260.",Average
+Bert Yaakov,Male,Research and Development,Kaduna,0.033,"$72,040.","$2,377.","$74,417.",Average
+Ruby Cracie,Male,Research and Development,Kaduna,0.033,"$78,710.","$2,597.","$81,307.",Average
+Kerwin Blakely,Male,Research and Development,Lagos,0.033,"$68,480.","$2,260.","$70,740.",Average
+Judie Di Bernardo,Male,Accounting,Abuja,0.02,"$117,150.","$2,343.","$119,493.",Average
+Constantino Espley,Male,Accounting,Abuja,0.02,"$96,800.","$1,936.","$98,736.",Average
+Torey Rosell,Male,Accounting,Kaduna,0.02,"$82,670.","$1,653.","$84,323.",Average
+Sly Cowley,Male,Accounting,Abuja,0.02,"$48,530.",$971.,"$49,501.",Average
+Enrichetta Mowles,Female,Accounting,Kaduna,0.02,"$74,390.","$1,488.","$75,878.",Average
+Toby Brodhead,Female,Accounting,Lagos,0.02,"$98,400.","$1,968.","$100,368.",Average
+Caron Kolakovic,Male,Accounting,Kaduna,0.02,"$49,920.",$998.,"$50,918.",Average
+Jaime Dowe,Female,Accounting,Lagos,0.02,"$39,940.",$799.,"$40,739.",Average
+Nathanial Brounfield,Male,Accounting,Kaduna,0.02,"$105,120.","$2,102.","$107,222.",Average
+Delphine Jewis,Female,Accounting,Kaduna,0.02,"$71,820.","$1,436.","$73,256.",Average
+Nerita Mycock,Male,Accounting,Kaduna,0.02,"$67,430.","$1,349.","$68,779.",Average
+Aretha Ettridge,Female,Accounting,Abuja,0.02,"$33,760.",$675.,"$34,435.",Average
+Petronella Marusik,Male,Accounting,Abuja,0.02,"$75,600.","$1,512.","$77,112.",Average
+Jamesy O'Ferris,Male,Accounting,Kaduna,0.02,"$36,550.",$731.,"$37,281.",Average
+Fanchon Furney,Male,Accounting,Abuja,0.02,"$95,950.","$1,919.","$97,869.",Average
+Alicea Pudsall,Male,Accounting,Abuja,0.02,"$67,630.","$1,353.","$68,983.",Average
+Franchot Crocken,Female,Accounting,Abuja,0.02,"$29,610.",$592.,"$30,202.",Average
+Dewie Stodart,Male,Accounting,Kaduna,0.02,"$78,020.","$1,560.","$79,580.",Average
+Jill Shipsey,Male,Accounting,Lagos,0.02,"$52,960.","$1,059.","$54,019.",Average
+Sissy Muehle,Female,Accounting,Kaduna,0.02,"$86,470.","$1,729.","$88,199.",Average
+Anjela Spancock,Male,Accounting,Lagos,0.02,"$98,010.","$1,960.","$99,970.",Average
+Emanuel Beldan,Male,Accounting,Abuja,0.02,"$94,070.","$1,881.","$95,951.",Average
+Kai Ryder,Female,Accounting,Lagos,0.02,"$119,930.","$2,399.","$122,329.",Average
+Gaultiero Have,Male,Accounting,Kaduna,0.02,"$115,380.","$2,308.","$117,688.",Average
+Tracy Renad,Female,Accounting,Abuja,0.02,"$114,890.","$2,298.","$117,188.",Average
+Barri Teacy,Female,Accounting,Lagos,0.02,"$86,240.","$1,725.","$87,965.",Average
+Amandy Jope,Male,Accounting,Abuja,0.02,"$99,630.","$1,993.","$101,623.",Average
+Danielle Johananoff,Male,Services,Lagos,0.023,"$109,040.","$2,508.","$111,548.",Average
+Marlowe Constantine,Male,Services,Abuja,0.023,"$60,560.","$1,393.","$61,953.",Average
+Jessica Burditt,Female,Services,Kaduna,0.023,"$97,120.","$2,234.","$99,354.",Average
+Nessy Baskwell,Male,Services,Kaduna,0.023,"$58,130.","$1,337.","$59,467.",Average
+Rosco Cogley,Male,Services,Abuja,0.023,"$86,840.","$1,997.","$88,837.",Average
+Benoite Ackermann,Female,Services,Abuja,0.023,"$57,080.","$1,313.","$58,393.",Average
+Orton Livick,Male,Services,Abuja,0.023,"$37,920.",$872.,"$38,792.",Average
+Ulick Maingot,Female,Services,Kaduna,0.023,"$42,820.",$985.,"$43,805.",Average
+Evanne Sheryn,Female,Services,Abuja,0.023,"$81,900.","$1,884.","$83,784.",Average
+Jobey Boneham,Female,Services,Kaduna,0.023,"$74,010.","$1,702.","$75,712.",Average
+Lucias Minico,Female,Services,Kaduna,0.023,"$67,960.","$1,563.","$69,523.",Average
+Ginger Myott,Female,Services,Abuja,0.023,"$31,170.",$717.,"$31,887.",Average
+Marco Wooland,Female,Services,Kaduna,0.023,"$85,530.","$1,967.","$87,497.",Average
+Pedro Carluccio,Male,Services,Lagos,0.023,"$41,140.",$946.,"$42,086.",Average
+Doro Nolte,Female,Services,Kaduna,0.023,"$109,050.","$2,508.","$111,558.",Average
+Noll Forbear,Male,Services,Kaduna,0.023,"$109,380.","$2,516.","$111,896.",Average
+Giacobo Donke,Male,Services,Kaduna,0.023,"$118,360.","$2,722.","$121,082.",Average
+Van Ruseworth,Female,Services,Abuja,0.023,"$80,610.","$1,854.","$82,464.",Average
+Shelby Buckland,Male,Services,Lagos,0.023,"$76,390.","$1,757.","$78,147.",Average
+Colly Littledike,Female,Services,Lagos,0.023,"$117,150.","$2,694.","$119,844.",Average
+Patti Dradey,Male,Services,Lagos,0.023,"$84,740.","$1,949.","$86,689.",Average
+Mathian MacMeeking,Female,Services,Lagos,0.023,"$45,060.","$1,036.","$46,096.",Average
+Reg MacMichael,Male,Services,Kaduna,0.023,"$106,890.","$2,458.","$109,348.",Average
+Herschel Wareham,Male,Services,Kaduna,0.023,"$110,830.","$2,549.","$113,379.",Average
+Penni Patemore,Male,Services,Kaduna,0.023,"$29,330.",$675.,"$30,005.",Average
+Halette Yesenev,Male,Services,Kaduna,0.023,"$61,920.","$1,424.","$63,344.",Average
+Roth Bourget,Male,Services,Kaduna,0.023,"$28,870.",$664.,"$29,534.",Average
+Hephzibah Summerell,Female,Services,Abuja,0.023,"$28,310.",$651.,"$28,961.",Average
+Lishe Casemore,Male,Services,Kaduna,0.023,"$117,840.","$2,710.","$120,550.",Average
+Lilyan Klimpt,Male,Services,Lagos,0.023,"$58,960.","$1,356.","$60,316.",Average
+Austine Littlewood,Female,Services,Abuja,0.023,"$32,270.",$742.,"$33,012.",Average
+Hildagard Reece,Female,Services,Lagos,0.023,"$41,220.",$948.,"$42,168.",Average
+Dulsea Folkes,Female,Services,Abuja,0.023,"$42,160.",$970.,"$43,130.",Average
+Appolonia Snook,Female,Services,Kaduna,0.023,"$93,880.","$2,159.","$96,039.",Average
+Yves Clunie,Female,Marketing,Lagos,0.035,"$75,440.","$2,640.","$78,080.",Average
+Izzy Brisco,Female,Marketing,Abuja,0.035,"$108,080.","$3,783.","$111,863.",Average
+Archaimbaud Pinchin,Male,Marketing,Kaduna,0.035,"$40,270.","$1,409.","$41,679.",Average
+Kayley Southwell,Female,Marketing,Kaduna,0.035,"$101,670.","$3,558.","$105,228.",Average
+Reena McKernan,Female,Marketing,Kaduna,0.035,"$104,750.","$3,666.","$108,416.",Average
+Tabbatha Pickston,Male,Marketing,Abuja,0.035,"$72,040.","$2,521.","$74,561.",Average
+Payton Pickervance,Male,Marketing,Kaduna,0.035,"$117,020.","$4,096.","$121,116.",Average
+Aubert Wedmore.,Female,Marketing,Lagos,0.035,"$61,330.","$2,147.","$63,477.",Average
+Genovera Ghost,Male,Marketing,Kaduna,0.035,"$72,160.","$2,526.","$74,686.",Average
+Bendite Bloan,Male,Marketing,Lagos,0.035,"$31,820.","$1,114.","$32,934.",Average
+Andrea Penfold,Male,Marketing,Kaduna,0.035,"$70,230.","$2,458.","$72,688.",Average
+Janene Hairsine,Female,Marketing,Abuja,0.035,"$104,770.","$3,667.","$108,437.",Average
+Isaak Rawne,Male,Marketing,Lagos,0.035,"$37,360.","$1,308.","$38,668.",Average
+Karon Oscroft,Male,Marketing,Lagos,0.035,"$112,120.","$3,924.","$116,044.",Average
+Barr Faughny,Female,Marketing,Abuja,0.035,"$68,010.","$2,380.","$70,390.",Average
+Skip Morkham,Female,Marketing,Kaduna,0.035,"$83,180.","$2,911.","$86,091.",Average
+Yanaton Wooster,Male,Marketing,Abuja,0.035,"$76,930.","$2,693.","$79,623.",Average
+Tammy Backson,Female,Marketing,Abuja,0.035,"$44,820.","$1,569.","$46,389.",Average
+Georgie Caress,Male,Marketing,Abuja,0.035,"$58,260.","$2,039.","$60,299.",Average
+Bobina Teale,Male,Marketing,Kaduna,0.035,"$116,890.","$4,091.","$120,981.",Average
+Jillana Gabbitis,Male,Marketing,Kaduna,0.035,"$91,360.","$3,198.","$94,558.",Average
+Carolin Fieldstone,Female,Marketing,Kaduna,0.035,"$36,920.","$1,292.","$38,212.",Average
+Israel Farndon,Male,Marketing,Lagos,0.035,"$107,220.","$3,753.","$110,973.",Average
+Fax Scotland,Female,Marketing,Abuja,0.035,"$57,640.","$2,017.","$59,657.",Average
+Husein Augar,Female,Marketing,Kaduna,0.035,"$67,910.","$2,377.","$70,287.",Average
+Joella Maevela,Female,Sales,Abuja,0.051,"$76,210.","$3,887.","$80,097.",Good
+Faunie Sinton,Female,Sales,Abuja,0.051,"$115,230.","$5,877.","$121,107.",Good
+Marcia Muldrew,Female,Sales,Lagos,0.051,"$71,510.","$3,647.","$75,157.",Good
+Gardy Eckersall,Male,Sales,Kaduna,0.051,"$79,650.","$4,062.","$83,712.",Good
+Floria Olivia,Female,Sales,Abuja,0.051,"$101,500.","$5,176.","$106,676.",Good
+Cristal Demangeot,Female,Sales,Abuja,0.051,"$72,350.","$3,690.","$76,040.",Good
+Joyce Esel,Male,Sales,Kaduna,0.051,"$101,390.","$5,171.","$106,561.",Good
+Chancey Dyos,Male,Sales,Kaduna,0.051,"$118,060.","$6,021.","$124,081.",Good
+Cheryl Mantz,Male,Sales,Kaduna,0.051,"$35,740.","$1,823.","$37,563.",Good
+Glennis Fussen,Female,Sales,Kaduna,0.051,"$58,370.","$2,977.","$61,347.",Good
+Jobie Basili,Female,Sales,Kaduna,0.051,"$39,340.","$2,006.","$41,346.",Good
+Helene Bouts,Male,Sales,Lagos,0.051,"$70,380.","$3,589.","$73,969.",Good
+Joaquin McVitty,Male,Sales,Lagos,0.051,"$68,860.","$3,512.","$72,372.",Good
+Rodina Drinan,Female,Sales,Abuja,0.051,"$77,050.","$3,930.","$80,980.",Good
+Rosaline Wenderott,Female,Sales,Abuja,0.051,"$36,820.","$1,878.","$38,698.",Good
+Florinda Crace,Female,Sales,Abuja,0.051,"$45,510.","$2,321.","$47,831.",Good
+Cullie Bourcq,Female,Sales,Abuja,0.051,"$45,590.","$2,325.","$47,915.",Good
+Yoshiko Tamblingson,Male,Sales,Kaduna,0.051,"$29,590.","$1,509.","$31,099.",Good
+Joella Maevela,Female,Sales,Kaduna,0.051,"$76,210.","$3,887.","$80,097.",Good
+Garwin Peasegood,Female,Engineering,Lagos,0.043,"$68,220.","$2,933.","$71,153.",Good
+Laney Renne,Male,Engineering,Kaduna,0.043,"$57,350.","$2,466.","$59,816.",Good
+Shannen Crittal,Female,Engineering,Kaduna,0.043,"$68,040.","$2,926.","$70,966.",Good
+Jeane Blaszczak,Female,Engineering,Lagos,0.043,"$44,300.","$1,905.","$46,205.",Good
+Peria Revey,Male,Engineering,Kaduna,0.043,"$103,240.","$4,439.","$107,679.",Good
+Carlene Torry,Female,Engineering,Lagos,0.043,"$59,610.","$2,563.","$62,173.",Good
+Delinda Snozzwell,Male,Engineering,Abuja,0.043,"$67,010.","$2,881.","$69,891.",Good
+Niall Selesnick,Female,Engineering,Lagos,0.043,"$34,980.","$1,504.","$36,484.",Good
+Manolo Gasnell,Male,Engineering,Kaduna,0.043,"$88,380.","$3,800.","$92,180.",Good
+Wyatt Clinch,Male,Engineering,Lagos,0.043,"$52,590.","$2,261.","$54,851.",Good
+Karyn Creeghan,Male,Engineering,Kaduna,0.043,"$36,540.","$1,571.","$38,111.",Good
+Dionne Garrish,Female,Engineering,Abuja,0.043,"$41,600.","$1,789.","$43,389.",Good
+Delinda Snozzwell,Male,Engineering,Abuja,0.043,"$67,010.","$2,881.","$69,891.",Good
+Cletus McGarahan,Female,Engineering,Lagos,0.043,"$114,430.","$4,920.","$119,350.",Good
+Anne-corinne Daulby,Male,Engineering,Lagos,0.043,"$78,640.","$3,382.","$82,022.",Good
+Margit Kunze,Male,Engineering,Abuja,0.043,"$94,020.","$4,043.","$98,063.",Good
+Christos Wintle,Male,Engineering,Lagos,0.043,"$74,360.","$3,197.","$77,557.",Good
+Hobie Stockbridge,Male,Engineering,Lagos,0.043,"$92,940.","$3,996.","$96,936.",Good
+Nicolis Winspire,Male,Engineering,Lagos,0.043,"$45,650.","$1,963.","$47,613.",Good
+Damien Netley,Male,Engineering,Abuja,0.043,"$98,110.","$4,219.","$102,329.",Good
+Gisella Mewe,Female,Support,Abuja,0.049,"$109,760.","$5,378.","$115,138.",Good
+Brigid Jeffrey,Female,Support,Kaduna,0.049,"$53,910.","$2,642.","$56,552.",Good
+Corinna Griffiths,Male,Support,Kaduna,0.049,"$75,010.","$3,675.","$78,685.",Good
+Warner Carwithan,Female,Support,Kaduna,0.049,"$113,760.","$5,574.","$119,334.",Good
+Abbie Tann,Female,Business Development,Lagos,0.05,"$116,520.","$5,826.","$122,346.",Good
+Meryl Waggatt,Female,Business Development,Kaduna,0.05,"$77,060.","$3,853.","$80,913.",Good
+Carlin Demke,Male,Business Development,Lagos,0.05,"$110,040.","$5,502.","$115,542.",Good
+Susy Challoner,Female,Business Development,Kaduna,0.05,"$29,890.","$1,494.","$31,384.",Good
+Tammi Lackham,Female,Business Development,Abuja,0.05,"$61,690.","$3,084.","$64,774.",Good
+Van Tuxwell,Female,Business Development,Abuja,0.05,"$80,700.","$4,035.","$84,735.",Good
+Murial Ickovici,Female,Business Development,Kaduna,0.05,"$72,500.","$3,625.","$76,125.",Good
+Thorvald Milliken,Female,Business Development,Lagos,0.05,"$33,030.","$1,652.","$34,682.",Good
+Pierson Measham,Male,Business Development,Kaduna,0.05,"$103,160.","$5,158.","$108,318.",Good
+Wyn Treadger,Female,Business Development,Kaduna,0.05,"$69,190.","$3,460.","$72,650.",Good
+Lil Ibberson,Male,Business Development,Kaduna,0.05,"$75,920.","$3,796.","$79,716.",Good
+Ardella Dyment,Female,Business Development,Kaduna,0.05,"$70,650.","$3,532.","$74,182.",Good
+Brodie Grimstead,Male,Business Development,Kaduna,0.05,"$117,850.","$5,892.","$123,742.",Good
+Leslie Cardoso,Female,Business Development,Abuja,0.05,"$103,340.","$5,167.","$108,507.",Good
+Sheff Gerdts,Male,Business Development,Lagos,0.05,"$89,160.","$4,458.","$93,618.",Good
+Gunar Cockshoot,Male,Business Development,Abuja,0.05,"$48,950.","$2,448.","$51,398.",Good
+Marcellina Kitt,Female,Business Development,Kaduna,0.05,"$78,500.","$3,925.","$82,425.",Good
+Garwood Penhale,Female,Business Development,Kaduna,0.05,"$96,640.","$4,832.","$101,472.",Good
+Evangelia Gowers,Male,Business Development,Kaduna,0.05,"$118,450.","$5,922.","$124,372.",Good
+Kincaid Hellicar,Male,Business Development,Kaduna,0.05,"$96,610.","$4,830.","$101,440.",Good
+Shayne Stegel,Male,Business Development,Abuja,0.05,"$70,270.","$3,514.","$73,784.",Good
+Juanita Trembey,Male,Business Development,Kaduna,0.05,"$54,780.","$2,739.","$57,519.",Good
+Candy Aindrais,Female,Business Development,Lagos,0.05,"$116,590.","$5,830.","$122,420.",Good
+Jordain Sparkwill,Female,Product Management,Abuja,0.041,"$107,660.","$4,414.","$112,074.",Good
+Camille Baldinotti,Female,Product Management,Lagos,0.041,"$41,700.","$1,710.","$43,410.",Good
+Von Boeter,Male,Product Management,Lagos,0.041,"$36,370.","$1,491.","$37,861.",Good
+Vlad Strangeway,Male,Product Management,Abuja,0.041,"$77,740.","$3,187.","$80,927.",Good
+Millard Brakewell,Male,Product Management,Kaduna,0.041,"$76,560.","$3,139.","$79,699.",Good
+L;urette Bontein,Male,Product Management,Abuja,0.041,"$47,650.","$1,954.","$49,604.",Good
+Crissie Cordel,Female,Product Management,Abuja,0.041,"$41,570.","$1,704.","$43,274.",Good
+Shellysheldon Ellerman,Female,Product Management,Abuja,0.041,"$34,470.","$1,413.","$35,883.",Good
+Cathi Delgardo,Male,Product Management,Abuja,0.041,"$111,910.","$4,588.","$116,498.",Good
+Sharron Petegree,Female,Product Management,Kaduna,0.041,"$87,290.","$3,579.","$90,869.",Good
+Marney O'Breen,Female,Product Management,Kaduna,0.041,"$65,920.","$2,703.","$68,623.",Good
+Nani Brockley,Male,Product Management,Abuja,0.041,"$47,000.","$1,927.","$48,927.",Good
+Bordy Yatman,Female,Product Management,Lagos,0.041,"$108,450.","$4,446.","$112,896.",Good
+Bogey Hitcham,Male,Product Management,Abuja,0.041,"$106,170.","$4,353.","$110,523.",Good
+Curtice Advani,Male,Product Management,Lagos,0.041,"$59,810.","$2,452.","$62,262.",Good
+Vic Radolf,Female,Product Management,Abuja,0.041,"$62,780.","$2,574.","$65,354.",Good
+Issie Crippes,Female,Product Management,Abuja,0.041,"$81,720.","$3,351.","$85,071.",Good
+Euell Willoughley,Male,Product Management,Kaduna,0.041,"$105,800.","$4,338.","$110,138.",Good
+Richy Gray,Female,Product Management,Kaduna,0.041,"$89,830.","$3,683.","$93,513.",Good
+Ava Whordley,Female,Product Management,Abuja,0.041,"$104,210.","$4,273.","$108,483.",Good
+Minna Showler,Female,Training,Kaduna,0.059,"$105,370.","$6,217.","$111,587.",Good
+Isa Mogie,Female,Training,Kaduna,0.059,"$50,950.","$3,006.","$53,956.",Good
+Fancy Bonin,Male,Training,Lagos,0.059,"$84,680.","$4,996.","$89,676.",Good
+Rhody Odhams,Male,Training,Lagos,0.059,"$103,600.","$6,112.","$109,712.",Good
+Vernor Atyea,Female,Training,Kaduna,0.059,"$102,930.","$6,073.","$109,003.",Good
+Ewart Hovel,Female,Training,Lagos,0.059,"$116,770.","$6,889.","$123,659.",Good
+Lindi Morfey,Male,Training,Kaduna,0.059,"$99,470.","$5,869.","$105,339.",Good
+Torrance Collier,Female,Training,Lagos,0.059,"$96,140.","$5,672.","$101,812.",Good
+Nerissa Kavanagh,Male,Training,Abuja,0.059,"$84,170.","$4,966.","$89,136.",Good
+Georg Dinnage,Male,Training,Kaduna,0.059,"$88,330.","$5,211.","$93,541.",Good
+Antone Tolmie,Male,Training,Kaduna,0.059,"$110,820.","$6,538.","$117,358.",Good
+Luce Beentjes,Male,Training,Abuja,0.059,"$48,180.","$2,843.","$51,023.",Good
+Mallorie Waber,Male,Training,Lagos,0.059,"$60,570.","$3,574.","$64,144.",Good
+Ewart Laphorn,Female,Training,Kaduna,0.059,"$119,110.","$7,027.","$126,137.",Good
+William Reeveley,Male,Training,Abuja,0.059,"$53,870.","$3,178.","$57,048.",Good
+Gerald Caple,Male,Training,Kaduna,0.059,"$59,300.","$3,499.","$62,799.",Good
+Felita Whitloe,Male,Training,Kaduna,0.059,"$63,450.","$3,744.","$67,194.",Good
+Lek Scamaden,Female,Training,Abuja,0.059,"$51,860.","$3,060.","$54,920.",Good
+Jo-anne Gobeau,Female,Training,Abuja,0.059,"$37,900.","$2,236.","$40,136.",Good
+William Reeveley,Male,Training,Abuja,0.059,"$53,870.","$3,178.","$57,048.",Good
+Nessi Delves,Male,Training,Kaduna,0.059,"$56,830.","$3,353.","$60,183.",Good
+Easter Pyke,Female,Training,Kaduna,0.059,"$95,680.","$5,645.","$101,325.",Good
+Ebonee Roxburgh,Male,Training,Kaduna,0.059,"$67,950.","$4,009.","$71,959.",Good
+Josie Barnson,Female,Training,Kaduna,0.059,"$74,110.","$4,372.","$78,482.",Good
+Robbert Mandrier,Female,Training,Abuja,0.059,"$98,020.","$5,783.","$103,803.",Good
+Felipe Parkman,Female,Training,Abuja,0.059,"$90,150.","$5,319.","$95,469.",Good
+Nicole Blowfelde,Female,Training,Kaduna,0.059,"$59,560.","$3,514.","$63,074.",Good
+Gavan Puttan,Male,Accounting,Abuja,0.058,"$35,940.","$2,085.","$38,025.",Good
+Haven Belward,Male,Accounting,Lagos,0.058,"$89,120.","$5,169.","$94,289.",Good
+Gradey Litton,Female,Accounting,Kaduna,0.058,"$68,890.","$3,996.","$72,886.",Good
+Bren Absolon,Male,Accounting,Abuja,0.058,"$74,710.","$4,333.","$79,043.",Good
+Inger Andriveaux,Male,Accounting,Abuja,0.058,"$107,110.","$6,212.","$113,322.",Good
+Quentin Ferraresi,Female,Accounting,Abuja,0.058,"$49,000.","$2,842.","$51,842.",Good
+Jermaine Steers,Female,Accounting,Abuja,0.058,"$35,440.","$2,056.","$37,496.",Good
+Mahalia Larcher,Male,Accounting,Abuja,0.058,"$113,280.","$6,570.","$119,850.",Good
+Yolande O'Dare,Female,Accounting,Abuja,0.058,"$51,650.","$2,996.","$54,646.",Good
+Gilles Jaquet,Female,Accounting,Kaduna,0.058,"$76,300.","$4,425.","$80,725.",Good
+Roddy Speechley,Male,Accounting,Abuja,0.058,"$115,920.","$6,723.","$122,643.",Good
+Novelia Pyffe,Male,Accounting,Kaduna,0.058,"$52,270.","$3,032.","$55,302.",Good
+Brad Gumb,Male,Accounting,Kaduna,0.058,"$38,830.","$2,252.","$41,082.",Good
+Kissiah Maydway,Male,Accounting,Lagos,0.058,"$106,460.","$6,175.","$112,635.",Good
+Cherlyn Barter,Female,Accounting,Abuja,0.058,"$104,120.","$6,039.","$110,159.",Good
+Rafaelita Blaksland,Female,Services,Kaduna,0.053,"$109,160.","$5,785.","$114,945.",Good
+Jim Perrygo,Male,Services,Lagos,0.053,"$96,790.","$5,130.","$101,920.",Good
+Carmel Pancoust,Female,Services,Abuja,0.053,"$119,550.","$6,336.","$125,886.",Good
+Rosamond Fishe,Male,Services,Lagos,0.053,"$108,160.","$5,732.","$113,892.",Good
+Helaine Lyddy,Male,Services,Kaduna,0.053,"$103,110.","$5,465.","$108,575.",Good
+Cindi Stratten,Female,Services,Lagos,0.053,"$99,200.","$5,258.","$104,458.",Good
+Pearla Beteriss,Male,Services,Kaduna,0.053,"$69,910.","$3,705.","$73,615.",Good
+Joli Jodrelle,Male,Services,Kaduna,0.053,"$77,100.","$4,086.","$81,186.",Good
+Mathian MacMeeking,Female,Services,Kaduna,0.053,"$45,060.","$2,388.","$47,448.",Good
+Mick Spraberry,Female,Services,Abuja,0.053,"$85,880.","$4,552.","$90,432.",Good
+Gayla Blackadder,Female,Services,Lagos,0.053,"$109,170.","$5,786.","$114,956.",Good
+Danica Nayshe,Female,Services,Kaduna,0.053,"$89,690.","$4,754.","$94,444.",Good
+Aurelia Stanners,Female,Services,Lagos,0.053,"$98,630.","$5,227.","$103,857.",Good
+Marni Jull,Female,Services,Abuja,0.053,"$84,200.","$4,463.","$88,663.",Good
+Aile Strathearn,Female,Marketing,Lagos,0.058,"$114,600.","$6,647.","$121,247.",Good
+Jakob Philippe,Male,Marketing,Kaduna,0.058,"$51,910.","$3,011.","$54,921.",Good
+Cara Havers,Male,Marketing,Lagos,0.058,"$89,610.","$5,197.","$94,807.",Good
+Delora Arendt,Female,Marketing,Abuja,0.058,"$67,620.","$3,922.","$71,542.",Good
+Mariann Mowat,Male,Marketing,Kaduna,0.058,"$32,620.","$1,892.","$34,512.",Good
+Jan Morforth,Male,Marketing,Abuja,0.058,"$48,170.","$2,794.","$50,964.",Good
+Beatriz Bateson,Male,Marketing,Kaduna,0.058,"$89,090.","$5,167.","$94,257.",Good
+North Bertomeu,Female,Marketing,Abuja,0.058,"$104,900.","$6,084.","$110,984.",Good
+Rudyard Tomsa,Female,Marketing,Kaduna,0.058,"$43,900.","$2,546.","$46,446.",Good
+Reube Sushams,Male,Marketing,Kaduna,0.058,"$90,130.","$5,228.","$95,358.",Good
+Tabbatha Pickston,Male,Marketing,Abuja,0.058,"$72,040.","$4,178.","$76,218.",Good
+Xavier Filipic,Female,Marketing,Kaduna,0.058,"$31,050.","$1,801.","$32,851.",Good
+Packston Joanic,Male,Marketing,Kaduna,0.058,"$51,860.","$3,008.","$54,868.",Good
+Conchita Soden,Male,Marketing,Abuja,0.058,"$74,410.","$4,316.","$78,726.",Good
+Reggie Taylerson,Male,Marketing,Lagos,0.058,"$87,610.","$5,081.","$92,691.",Good
+Carolyn Attack,Female,Marketing,Lagos,0.058,"$70,760.","$4,104.","$74,864.",Good
+Oliy Feeney,Female,Marketing,Lagos,0.058,"$42,970.","$2,492.","$45,462.",Good
+Caro Hainsworth,Male,Marketing,Kaduna,0.058,"$77,470.","$4,493.","$81,963.",Good
+Chrisy Kyme,Female,Marketing,Lagos,0.058,"$99,200.","$5,754.","$104,954.",Good
+Cara Havers,Male,Marketing,Kaduna,0.058,"$89,610.","$5,197.","$94,807.",Good
+Jessica Callcott,Female,Marketing,Lagos,0.058,"$66,020.","$3,829.","$69,849.",Good
+Cleveland Pottiphar,Female,Marketing,Lagos,0.058,"$74,600.","$4,327.","$78,927.",Good
+Maisie Shotboulte,Female,Marketing,Abuja,0.058,"$71,210.","$4,130.","$75,340.",Good
+Ronnie Sinyard,Female,Legal,Abuja,0.054,"$101,760.","$5,495.","$107,255.",Good
+Obidiah Westrope,Male,Legal,Kaduna,0.054,"$108,460.","$5,857.","$114,317.",Good
+Ignacius Losel,Male,Legal,Kaduna,0.054,"$28,480.","$1,538.","$30,018.",Good
+Shela Goade,Male,Legal,Kaduna,0.054,"$93,930.","$5,072.","$99,002.",Good
+Beryl Burnsyde,Male,Legal,Lagos,0.054,"$29,770.","$1,608.","$31,378.",Good
+Egor Minto,Male,Legal,Abuja,0.054,"$63,450.","$3,426.","$66,876.",Good
+Brendan Edgeller,Female,Legal,Abuja,0.054,"$31,040.","$1,676.","$32,716.",Good
+Clo Jimpson,Male,Legal,Abuja,0.054,"$57,620.","$3,111.","$60,731.",Good
+Purcell Le Pine,Male,Legal,Kaduna,0.054,"$101,220.","$5,466.","$106,686.",Good
+Alysa Wankling,Male,Legal,Lagos,0.054,"$106,460.","$5,749.","$112,209.",Good
+Marga Lorenzo,Female,Legal,Abuja,0.054,"$89,360.","$4,825.","$94,185.",Good
+William Coveny,Male,Legal,Abuja,0.054,"$66,140.","$3,572.","$69,712.",Good
+Timmi Durran,Male,Human Resources,Abuja,0.054,"$68,430.","$3,695.","$72,125.",Good
+Bennett Gimenez,Female,Human Resources,Abuja,0.054,"$36,460.","$1,969.","$38,429.",Good
+Minetta Parsons,Female,Human Resources,Abuja,0.054,"$110,770.","$5,982.","$116,752.",Good
+Adella Hartshorne,Female,Human Resources,Abuja,0.054,"$41,160.","$2,223.","$43,383.",Good
+Collette Blackaller,Female,Human Resources,Kaduna,0.054,"$42,380.","$2,289.","$44,669.",Good
+Aindrea Lenormand,Female,Human Resources,Abuja,0.054,"$71,180.","$3,844.","$75,024.",Good
+Tatum Hush,Female,Human Resources,Abuja,0.054,"$53,240.","$2,875.","$56,115.",Good
+Mickey Pybus,Male,Human Resources,Kaduna,0.054,"$87,850.","$4,744.","$92,594.",Good
+Judi Cosgriff,Female,Human Resources,Abuja,0.054,"$86,390.","$4,665.","$91,055.",Good
+Farris Ditchfield,Male,Human Resources,Kaduna,0.054,"$58,030.","$3,134.","$61,164.",Good
+Anni Izzard,Male,Human Resources,Abuja,0.054,"$103,490.","$5,588.","$109,078.",Good
+Yvette Bett,Male,Human Resources,Lagos,0.054,"$76,320.","$4,121.","$80,441.",Good
+Evanne Levens,Male,Human Resources,Kaduna,0.054,"$36,880.","$1,992.","$38,872.",Good
+Alfred Peplay,Female,Human Resources,Lagos,0.054,"$60,580.","$3,271.","$63,851.",Good
+Phillipp Nekrews,Male,Human Resources,Kaduna,0.054,"$71,330.","$3,852.","$75,182.",Good
+Gearard Wixon,Male,Human Resources,Abuja,0.054,"$106,190.","$5,734.","$111,924.",Good
+Hali Behnecke,Male,Human Resources,Kaduna,0.054,"$65,570.","$3,541.","$69,111.",Good
+Erin Androsik,Male,Human Resources,Lagos,0.054,"$48,530.","$2,621.","$51,151.",Good
+Virginia McConville,Female,Human Resources,Abuja,0.054,"$76,900.","$4,153.","$81,053.",Good
+Larry Pioch,Male,Research and Development,Abuja,0.054,"$49,670.","$2,682.","$52,352.",Good
+Fedora Graffin,Male,Research and Development,Lagos,0.054,"$92,500.","$4,995.","$97,495.",Good
+Aloisia Minto,Male,Research and Development,Abuja,0.054,"$41,420.","$2,237.","$43,657.",Good
+Ede Mignot,Female,Research and Development,Kaduna,0.054,"$98,640.","$5,327.","$103,967.",Good
+Mick Tanguy,Female,Research and Development,Lagos,0.054,"$97,400.","$5,260.","$102,660.",Good
+Janina Wolverson,Female,Research and Development,Kaduna,0.054,"$99,680.","$5,383.","$105,063.",Good
+Merrilee Plenty,Female,Research and Development,Abuja,0.054,"$87,620.","$4,731.","$92,351.",Good
+Edgard Irving,Male,Research and Development,Kaduna,0.054,"$87,290.","$4,714.","$92,004.",Good
+Kit Battlestone,Female,Research and Development,Abuja,0.054,"$115,980.","$6,263.","$122,243.",Good
+Dayle O'Luney,Female,Research and Development,Abuja,0.054,"$46,750.","$2,524.","$49,274.",Good
+Giffer Berlin,Female,Research and Development,Kaduna,0.054,"$92,340.","$4,986.","$97,326.",Good
+Rose Shurrocks,Female,Research and Development,Kaduna,0.054,"$32,140.","$1,736.","$33,876.",Good
+Lonny Caen,Female,Research and Development,Lagos,0.054,"$35,980.","$1,943.","$37,923.",Good
+Inger Chapelhow,Female,Research and Development,Abuja,0.054,"$84,310.","$4,553.","$88,863.",Good
+Calvin O'Carroll,Female,Research and Development,Abuja,0.054,"$44,450.","$2,400.","$46,850.",Good
+Shanon Deverell,Female,Research and Development,Lagos,0.054,"$78,180.","$4,222.","$82,402.",Good
+Ashien Gallen,Female,Research and Development,Abuja,0.054,"$115,080.","$6,214.","$121,294.",Good
+Gino Groome,Female,Research and Development,Lagos,0.054,"$60,440.","$3,264.","$63,704.",Good
+Lonny Caen,Female,Research and Development,Lagos,0.054,"$35,980.","$1,943.","$37,923.",Good
+Merrilee Plenty,Female,Research and Development,Abuja,0.054,"$87,620.","$4,731.","$92,351.",Good
+Archibald Filliskirk,Male,Research and Development,Abuja,0.054,"$40,400.","$2,182.","$42,582.",Good
+Kaine Padly,Male,Research and Development,Abuja,0.054,"$107,700.","$5,816.","$113,516.",Good
+Brien Boise,Female,Research and Development,Kaduna,0.054,"$58,100.","$3,137.","$61,237.",Good
+Eberto William,Female,Research and Development,Abuja,0.054,"$57,750.","$3,118.","$60,868.",Good
+Vassili Flay,Male,Research and Development,Abuja,0.054,"$108,970.","$5,884.","$114,854.",Good
+Berny Bastide,Male,Research and Development,Kaduna,0.054,"$56,710.","$3,062.","$59,772.",Good
+Augusta Cheetham,Male,Research and Development,Abuja,0.054,"$105,470.","$5,695.","$111,165.",Good
+Cecilio Sprankling,Male,Research and Development,Abuja,0.054,"$109,710.","$5,924.","$115,634.",Good
+Latisha Jolly,Female,Research and Development,Lagos,0.054,"$58,400.","$3,154.","$61,554.",Good
+Debera Gow,Female,Research and Development,Lagos,0.054,"$39,700.","$2,144.","$41,844.",Good
+Jessika Jaycocks,Female,Research and Development,Lagos,0.054,"$67,980.","$3,671.","$71,651.",Good
+Myer McCory,Male,Research and Development,Kaduna,0.054,"$69,710.","$3,764.","$73,474.",Good
+Maritsa Marusic,Male,Research and Development,Kaduna,0.054,"$52,750.","$2,848.","$55,598.",Good
+Rhiamon Mollison,Female,Research and Development,Lagos,0.054,"$59,430.","$3,209.","$62,639.",Good
+Matias Cormack,Male,Research and Development,Kaduna,0.054,"$85,460.","$4,615.","$90,075.",Good
+Ernestus O'Hengerty,Female,Research and Development,Abuja,0.054,"$31,020.","$1,675.","$32,695.",Good
+Stephan Bussel,Male,Research and Development,Kaduna,0.054,"$48,290.","$2,608.","$50,898.",Good
+Jannel Labb,Female,Research and Development,Kaduna,0.054,"$47,910.","$2,587.","$50,497.",Good
+Cyril Medford,Female,Research and Development,Abuja,0.054,"$85,720.","$4,629.","$90,349.",Good
+Ferrell Skepper,Female,Research and Development,Kaduna,0.054,"$30,250.","$1,634.","$31,884.",Good
+Rhiamon Mollison,Female,Research and Development,Abuja,0.054,"$59,430.","$3,209.","$62,639.",Good
+Abramo Labbez,Female,Research and Development,Lagos,0.054,"$77,000.","$4,158.","$81,158.",Good
+Genevra Friday,Female,Research and Development,Lagos,0.054,"$50,450.","$2,724.","$53,174.",Good
+Inger Chapelhow,Female,Research and Development,Lagos,0.054,"$84,310.","$4,553.","$88,863.",Good
+Murry Dryburgh,Male,Research and Development,Abuja,0.054,"$69,070.","$3,730.","$72,800.",Good
+Jolynn Lumbley,Male,Research and Development,Abuja,0.054,"$70,020.","$3,781.","$73,801.",Good
+Maritsa Marusic,Male,Research and Development,Abuja,0.054,"$52,750.","$2,848.","$55,598.",Good
+Shari McNee,Male,Research and Development,Lagos,0.054,"$75,880.","$4,098.","$79,978.",Good
+Naoma Cruse,Male,Research and Development,Kaduna,0.054,"$71,540.","$3,863.","$75,403.",Good
+Oates Dinan,Female,Research and Development,Lagos,0.054,"$104,680.","$5,653.","$110,333.",Good
+Bili Sizey,Male,Research and Development,Abuja,0.054,"$36,040.","$1,946.","$37,986.",Good
+Leena Bruckshaw,Male,Research and Development,Lagos,0.054,"$74,280.","$4,011.","$78,291.",Good
+Dayle O'Luney,Female,Research and Development,Lagos,0.054,"$46,750.","$2,524.","$49,274.",Good
+Murry Dryburgh,Male,Research and Development,Kaduna,0.054,"$69,070.","$3,730.","$72,800.",Good
+Laura Gomar,Female,Research and Development,Lagos,0.054,"$36,860.","$1,990.","$38,850.",Good
+Larry Pioch,Male,Research and Development,Abuja,0.054,"$49,670.","$2,682.","$52,352.",Good
+Issy McLevie,Male,Research and Development,Kaduna,0.054,"$84,940.","$4,587.","$89,527.",Good
+Addia Penwright,Male,Research and Development,Abuja,0.054,"$28,130.","$1,519.","$29,649.",Good
+Romona Dimmne,Female,Research and Development,Kaduna,0.054,"$48,250.","$2,606.","$50,856.",Good
+Shelbi Aldin,Female,Research and Development,Abuja,0.054,"$40,910.","$2,209.","$43,119.",Good
+Bert Yaakov,Male,Research and Development,Kaduna,0.054,"$72,040.","$3,890.","$75,930.",Good
+Ruby Cracie,Male,Research and Development,Kaduna,0.054,"$78,710.","$4,250.","$82,960.",Good
+Kerwin Blakely,Male,Research and Development,Lagos,0.054,"$68,480.","$3,698.","$72,178.",Good
+Axel Grigaut,Male,Sales,Abuja,0.012,"$110,780.","$1,329.","$112,109.",Poor
+Taddeo Jovis,Female,Sales,Abuja,0.012,"$98,740.","$1,185.","$99,925.",Poor
+Kaye Crocroft,Male,Sales,Lagos,0.012,"$52,610.",$631.,"$53,241.",Poor
+Durand Backhouse,Female,Sales,Kaduna,0.012,"$83,400.","$1,001.","$84,401.",Poor
+Corina Triner,Male,Sales,Kaduna,0.012,"$66,100.",$793.,"$66,893.",Poor
+Hoyt D'Alesco,Male,Sales,Abuja,0.012,"$53,540.",$642.,"$54,182.",Poor
+Caritta Searl,Male,Sales,Kaduna,0.012,"$54,010.",$648.,"$54,658.",Poor
+Cristal Demangeot,Female,Sales,Kaduna,0.012,"$72,350.",$868.,"$73,218.",Poor
+Louise Lamming,Female,Sales,Abuja,0.012,"$41,930.",$503.,"$42,433.",Poor
+Twila Roantree,Female,Sales,Lagos,0.012,"$96,620.","$1,159.","$97,779.",Poor
+Silva Monte,Male,Sales,Abuja,0.012,"$52,810.",$634.,"$53,444.",Poor
+Nonah Bissell,Male,Engineering,Kaduna,0.011,"$82,240.",$905.,"$83,145.",Poor
+Billie Croucher,Female,Engineering,Kaduna,0.011,"$75,230.",$828.,"$76,058.",Poor
+Barney Bonafant,Female,Engineering,Abuja,0.011,"$48,060.",$529.,"$48,589.",Poor
+Halimeda Kuscha,Female,Engineering,Abuja,0.011,"$112,570.","$1,238.","$113,808.",Poor
+Gare Mattiussi,Male,Engineering,Abuja,0.011,"$32,500.",$358.,"$32,858.",Poor
+Angeline Christophersen,Female,Engineering,Abuja,0.011,"$86,940.",$956.,"$87,896.",Poor
+Meara Darrington,Male,Engineering,Abuja,0.011,"$76,190.",$838.,"$77,028.",Poor
+Collen Dunbleton,Male,Engineering,Abuja,0.011,"$118,980.","$1,309.","$120,289.",Poor
+Dell Molloy,Male,Engineering,Abuja,0.011,"$47,360.",$521.,"$47,881.",Poor
+Abigael Basire,Male,Engineering,Lagos,0.011,"$61,620.",$678.,"$62,298.",Poor
+Jeane Blaszczak,Female,Engineering,Lagos,0.011,"$44,300.",$487.,"$44,787.",Poor
+Oran Buxcy,Female,Engineering,Lagos,0.011,"$56,870.",$626.,"$57,496.",Poor
+Adrianne Gave,Male,Engineering,Lagos,0.011,"$78,440.",$863.,"$79,303.",Poor
+Claudetta Petherick,Female,Legal,Abuja,0.019,"$54,520.","$1,036.","$55,556.",Poor
+Quintina Kilgannon,Female,Legal,Kaduna,0.019,"$86,490.","$1,643.","$88,133.",Poor
+Shana Bewly,Female,Legal,Abuja,0.019,"$105,960.","$2,013.","$107,973.",Poor
+Morten Dumphy,Male,Legal,Kaduna,0.019,"$111,480.","$2,118.","$113,598.",Poor
+Jessi Calterone,Male,Legal,Lagos,0.019,"$38,520.",$732.,"$39,252.",Poor
+Vere Kulic,Male,Legal,Abuja,0.019,"$66,570.","$1,265.","$67,835.",Poor
+Dino Wooderson,Male,Legal,Abuja,0.019,"$52,120.",$990.,"$53,110.",Poor
+Mora Innett,Female,Legal,Lagos,0.019,"$105,610.","$2,007.","$107,617.",Poor
+Westbrook Brandino,Male,Legal,Lagos,0.019,"$113,620.","$2,159.","$115,779.",Poor
+Ignacius Losel,Male,Legal,Kaduna,0.019,"$28,480.",$541.,"$29,021.",Poor
+Alvie Keming,Female,Legal,Kaduna,0.019,"$37,840.",$719.,"$38,559.",Poor
+Alikee Jecock,Female,Legal,Kaduna,0.019,"$85,000.","$1,615.","$86,615.",Poor
+Trey Jurges,Female,Legal,Kaduna,0.019,"$72,360.","$1,375.","$73,735.",Poor
+Gardy Grigorey,Female,Support,Kaduna,0.01,"$107,090.","$1,071.","$108,161.",Poor
+Marlie Charsley,Male,Support,Abuja,0.01,"$108,450.","$1,084.","$109,534.",Poor
+Michaeline Capehorn,Female,Support,Lagos,0.01,"$95,340.",$953.,"$96,293.",Poor
+Charline Husset,Male,Support,Abuja,0.01,"$94,530.",$945.,"$95,475.",Poor
+Gisela Wille,Male,Support,Lagos,0.01,"$58,850.",$588.,"$59,438.",Poor
+Caresa Christer,Male,Support,Lagos,0.01,"$59,260.",$593.,"$59,853.",Poor
+Dov Thoresby,Male,Support,Abuja,0.01,"$115,490.","$1,155.","$116,645.",Poor
+Gilda Richen,Female,Support,Abuja,0.01,"$71,920.",$719.,"$72,639.",Poor
+Kelly Corkitt,Female,Human Resources,Lagos,0.013,"$85,260.","$1,108.","$86,368.",Poor
+Kakalina Stanaway,Male,Human Resources,Kaduna,0.013,"$97,020.","$1,261.","$98,281.",Poor
+Erin Androsik,Male,Human Resources,Kaduna,0.013,"$48,530.",$631.,"$49,161.",Poor
+Cecilla Joselevitch,Female,Human Resources,Abuja,0.013,"$77,840.","$1,012.","$78,852.",Poor
+Baxter Brocks,Female,Human Resources,Abuja,0.013,"$39,680.",$516.,"$40,196.",Poor
+Brose MacCorkell,Female,Human Resources,Lagos,0.013,"$35,940.",$467.,"$36,407.",Poor
+Lea Chaplin,Female,Human Resources,Kaduna,0.013,"$73,490.",$955.,"$74,445.",Poor
+Alida Welman,Male,Human Resources,Lagos,0.013,"$69,860.",$908.,"$70,768.",Poor
+Mendel Gentsch,Male,Human Resources,Lagos,0.013,"$28,330.",$368.,"$28,698.",Poor
+Cordelia Djuricic,Female,Human Resources,Abuja,0.013,"$65,350.",$850.,"$66,200.",Poor
+Kelci Walkden,Male,Human Resources,Kaduna,0.013,"$57,090.",$742.,"$57,832.",Poor
+Jarad Barbrook,Female,Human Resources,Abuja,0.013,"$31,200.",$406.,"$31,606.",Poor
+Krysta Elacoate,Male,Human Resources,Abuja,0.013,"$106,930.","$1,390.","$108,320.",Poor
+Irvine Blenkin,Male,Human Resources,Abuja,0.013,"$79,590.","$1,035.","$80,625.",Poor
+Layton Kierans,Male,Human Resources,Kaduna,0.013,"$113,790.","$1,479.","$115,269.",Poor
+Katya Hundy,Male,Business Development,Kaduna,0.018,"$88,510.","$1,593.","$90,103.",Poor
+Codi Beck,Female,Business Development,Lagos,0.018,"$40,560.",$730.,"$41,290.",Poor
+Norrie Grahl,Male,Business Development,Abuja,0.018,"$42,950.",$773.,"$43,723.",Poor
+Adolph McNalley,Male,Business Development,Abuja,0.018,"$85,920.","$1,547.","$87,467.",Poor
+Lorain Tew,Female,Business Development,Lagos,0.018,"$71,590.","$1,289.","$72,879.",Poor
+Lissy McCoy,Female,Business Development,Abuja,0.018,"$86,230.","$1,552.","$87,782.",Poor
+Amii Elms,Female,Business Development,Kaduna,0.018,"$53,920.",$971.,"$54,891.",Poor
+Sharl Bendson,Female,Business Development,Abuja,0.018,"$33,630.",$605.,"$34,235.",Poor
+Rogers Rosenthaler,Female,Business Development,Lagos,0.018,"$91,190.","$1,641.","$92,831.",Poor
+Van Tuxwell,Female,Business Development,Abuja,0.018,"$80,700.","$1,453.","$82,153.",Poor
+Sarajane Scourge,Female,Business Development,Abuja,0.018,"$58,830.","$1,059.","$59,889.",Poor
+Trix Lutsch,Male,Business Development,Abuja,0.018,"$106,400.","$1,915.","$108,315.",Poor
+Christoph Stretton,Female,Business Development,Abuja,0.018,"$90,240.","$1,624.","$91,864.",Poor
+Wendel Malletratt,Male,Business Development,Kaduna,0.018,"$67,660.","$1,218.","$68,878.",Poor
+Gwenore Scotchmer,Female,Business Development,Kaduna,0.018,"$105,290.","$1,895.","$107,185.",Poor
+Bari Toffano,Male,Product Management,Kaduna,0.01,"$106,780.","$1,068.","$107,848.",Poor
+Corny Linturn,Female,Product Management,Kaduna,0.01,"$47,960.",$480.,"$48,440.",Poor
+Melva Jickells,Female,Product Management,Lagos,0.01,"$68,800.",$688.,"$69,488.",Poor
+Bogey Hitcham,Male,Product Management,Lagos,0.01,"$106,170.","$1,062.","$107,232.",Poor
+Adolph Hartin,Male,Product Management,Lagos,0.01,"$89,960.",$900.,"$90,860.",Poor
+Addi Studdeard,Female,Product Management,Abuja,0.01,"$72,500.",$725.,"$73,225.",Poor
+Mabel Orrow,Male,Product Management,Abuja,0.01,"$31,240.",$312.,"$31,552.",Poor
+Lezlie Balmann,Male,Product Management,Kaduna,0.01,"$112,460.","$1,125.","$113,585.",Poor
+Ansley Gounel,Female,Product Management,Abuja,0.01,"$38,440.",$384.,"$38,824.",Poor
+Althea Bronger,Male,Product Management,Kaduna,0.01,"$104,340.","$1,043.","$105,383.",Poor
+Denni Wiggans,Male,Product Management,Lagos,0.01,"$81,220.",$812.,"$82,032.",Poor
+Tarrah Wordsworth,Female,Product Management,Abuja,0.01,"$86,340.",$863.,"$87,203.",Poor
+Addi Studdeard,Female,Product Management,Lagos,0.01,"$72,500.",$725.,"$73,225.",Poor
+Sharity Brands,Male,Product Management,Abuja,0.01,"$104,080.","$1,041.","$105,121.",Poor
+Eilis Pavlasek,Male,Product Management,Kaduna,0.01,"$115,190.","$1,152.","$116,342.",Poor
+Ancell Moretto,Female,Product Management,Abuja,0.01,"$96,920.",$969.,"$97,889.",Poor
+Sammy Gantlett,Female,Product Management,Lagos,0.01,"$74,800.",$748.,"$75,548.",Poor
+Sibyl Dunkirk,Female,Product Management,Kaduna,0.01,"$86,570.",$866.,"$87,436.",Poor
+Lindy Guillet,Male,Training,Abuja,0.019,"$112,780.","$2,143.","$114,923.",Poor
+Georg Dinnage,Male,Training,Kaduna,0.019,"$88,330.","$1,678.","$90,008.",Poor
+Diarmid Alman,Female,Training,Abuja,0.019,"$98,200.","$1,866.","$100,066.",Poor
+Thekla Lynnett,Male,Training,Lagos,0.019,"$53,950.","$1,025.","$54,975.",Poor
+Virge Garfield,Male,Training,Abuja,0.019,"$110,890.","$2,107.","$112,997.",Poor
+Dael Bugge,Male,Training,Lagos,0.019,"$62,690.","$1,191.","$63,881.",Poor
+Mick Titman,Male,Training,Lagos,0.019,"$105,330.","$2,001.","$107,331.",Poor
+Miguel Woolner,Male,Training,Kaduna,0.019,"$51,740.",$983.,"$52,723.",Poor
+Krystal Lambswood,Female,Training,Kaduna,0.019,"$41,600.",$790.,"$42,390.",Poor
+Jacklyn Andrioletti,Female,Training,Abuja,0.019,"$86,990.","$1,653.","$88,643.",Poor
+Rey Chartman,Female,Training,Kaduna,0.019,"$93,960.","$1,785.","$95,745.",Poor
+Freddy Linford,Female,Training,Kaduna,0.019,"$93,130.","$1,769.","$94,899.",Poor
+Shellysheldon Mahady,Male,Training,Lagos,0.019,"$114,690.","$2,179.","$116,869.",Poor
+Christopher Kezourec,Male,Training,Kaduna,0.019,"$55,310.","$1,051.","$56,361.",Poor
+Michaella Perri,Male,Training,Lagos,0.019,"$75,320.","$1,431.","$76,751.",Poor
+Mackenzie Hannis,Female,Training,Abuja,0.019,"$57,000.","$1,083.","$58,083.",Poor
+Murry Dryburgh,Male,Research and Development,Kaduna,0.02,"$69,070.","$1,381.","$70,451.",Poor
+Laura Gomar,Female,Research and Development,Lagos,0.02,"$36,860.",$737.,"$37,597.",Poor
+Larry Pioch,Male,Research and Development,Abuja,0.02,"$49,670.",$993.,"$50,663.",Poor
+Issy McLevie,Male,Research and Development,Kaduna,0.02,"$84,940.","$1,699.","$86,639.",Poor
+Addia Penwright,Male,Research and Development,Abuja,0.02,"$28,130.",$563.,"$28,693.",Poor
+Romona Dimmne,Female,Research and Development,Kaduna,0.02,"$48,250.",$965.,"$49,215.",Poor
+Shelbi Aldin,Female,Research and Development,Abuja,0.02,"$40,910.",$818.,"$41,728.",Poor
+Bert Yaakov,Male,Research and Development,Kaduna,0.02,"$72,040.","$1,441.","$73,481.",Poor
+Ruby Cracie,Male,Research and Development,Kaduna,0.02,"$78,710.","$1,574.","$80,284.",Poor
+Kerwin Blakely,Male,Research and Development,Lagos,0.02,"$68,480.","$1,370.","$69,850.",Poor
+Jeane Bermingham,Male,Research and Development,Kaduna,0.02,"$116,980.","$2,340.","$119,320.",Poor
+Stormy Church,Male,Research and Development,Lagos,0.02,"$29,880.",$598.,"$30,478.",Poor
+Amaleta Baltzar,Male,Research and Development,Lagos,0.02,"$70,080.","$1,402.","$71,482.",Poor
+Calvin O'Carroll,Female,Research and Development,Kaduna,0.02,"$44,450.",$889.,"$45,339.",Poor
+Shea Mix,Male,Research and Development,Lagos,0.02,"$82,680.","$1,654.","$84,334.",Poor
+Benni Simounet,Male,Research and Development,Lagos,0.02,"$115,790.","$2,316.","$118,106.",Poor
+Eberto William,Female,Research and Development,Abuja,0.02,"$57,750.","$1,155.","$58,905.",Poor
+Larry Pioch,Male,Research and Development,Abuja,0.02,"$49,670.",$993.,"$50,663.",Poor
+Fedora Graffin,Male,Research and Development,Lagos,0.02,"$92,500.","$1,850.","$94,350.",Poor
+Vassili Flay,Male,Research and Development,Abuja,0.02,"$108,970.","$2,179.","$111,149.",Poor
+Aloisia Minto,Male,Research and Development,Abuja,0.02,"$41,420.",$828.,"$42,248.",Poor
+Ede Mignot,Female,Research and Development,Kaduna,0.02,"$98,640.","$1,973.","$100,613.",Poor
+Mick Tanguy,Female,Research and Development,Lagos,0.02,"$97,400.","$1,948.","$99,348.",Poor
+Berny Bastide,Male,Research and Development,Kaduna,0.02,"$56,710.","$1,134.","$57,844.",Poor
+Augusta Cheetham,Male,Research and Development,Abuja,0.02,"$105,470.","$2,109.","$107,579.",Poor
+Janina Wolverson,Female,Research and Development,Kaduna,0.02,"$99,680.","$1,994.","$101,674.",Poor
+Cecilio Sprankling,Male,Research and Development,Abuja,0.02,"$109,710.","$2,194.","$111,904.",Poor
+Latisha Jolly,Female,Research and Development,Lagos,0.02,"$58,400.","$1,168.","$59,568.",Poor
+Debera Gow,Female,Research and Development,Lagos,0.02,"$39,700.",$794.,"$40,494.",Poor
+Jessika Jaycocks,Female,Research and Development,Lagos,0.02,"$67,980.","$1,360.","$69,340.",Poor
+Myer McCory,Male,Research and Development,Kaduna,0.02,"$69,710.","$1,394.","$71,104.",Poor
+Maritsa Marusic,Male,Research and Development,Kaduna,0.02,"$52,750.","$1,055.","$53,805.",Poor
+Rhiamon Mollison,Female,Research and Development,Lagos,0.02,"$59,430.","$1,189.","$60,619.",Poor
+Matias Cormack,Male,Research and Development,Kaduna,0.02,"$85,460.","$1,709.","$87,169.",Poor
+Merrilee Plenty,Female,Research and Development,Abuja,0.02,"$87,620.","$1,752.","$89,372.",Poor
+Ernestus O'Hengerty,Female,Research and Development,Abuja,0.02,"$31,020.",$620.,"$31,640.",Poor
+Stephan Bussel,Male,Research and Development,Kaduna,0.02,"$48,290.",$966.,"$49,256.",Poor
+Jannel Labb,Female,Research and Development,Kaduna,0.02,"$47,910.",$958.,"$48,868.",Poor
+Edgard Irving,Male,Research and Development,Kaduna,0.02,"$87,290.","$1,746.","$89,036.",Poor
+Cyril Medford,Female,Research and Development,Abuja,0.02,"$85,720.","$1,714.","$87,434.",Poor
+Ferrell Skepper,Female,Research and Development,Kaduna,0.02,"$30,250.",$605.,"$30,855.",Poor
+Kit Battlestone,Female,Research and Development,Abuja,0.02,"$115,980.","$2,320.","$118,300.",Poor
+Rhiamon Mollison,Female,Research and Development,Abuja,0.02,"$59,430.","$1,189.","$60,619.",Poor
+Dayle O'Luney,Female,Research and Development,Abuja,0.02,"$46,750.",$935.,"$47,685.",Poor
+Abramo Labbez,Female,Research and Development,Lagos,0.02,"$77,000.","$1,540.","$78,540.",Poor
+Genevra Friday,Female,Research and Development,Lagos,0.02,"$50,450.","$1,009.","$51,459.",Poor
+Inger Chapelhow,Female,Research and Development,Lagos,0.02,"$84,310.","$1,686.","$85,996.",Poor
+Murry Dryburgh,Male,Research and Development,Abuja,0.02,"$69,070.","$1,381.","$70,451.",Poor
+Jolynn Lumbley,Male,Research and Development,Abuja,0.02,"$70,020.","$1,400.","$71,420.",Poor
+Maritsa Marusic,Male,Research and Development,Abuja,0.02,"$52,750.","$1,055.","$53,805.",Poor
+Giffer Berlin,Female,Research and Development,Kaduna,0.02,"$92,340.","$1,847.","$94,187.",Poor
+Rose Shurrocks,Female,Research and Development,Kaduna,0.02,"$32,140.",$643.,"$32,783.",Poor
+Shari McNee,Male,Research and Development,Lagos,0.02,"$75,880.","$1,518.","$77,398.",Poor
+Lonny Caen,Female,Research and Development,Lagos,0.02,"$35,980.",$720.,"$36,700.",Poor
+Naoma Cruse,Male,Research and Development,Kaduna,0.02,"$71,540.","$1,431.","$72,971.",Poor
+Oates Dinan,Female,Research and Development,Lagos,0.02,"$104,680.","$2,094.","$106,774.",Poor
+Bili Sizey,Male,Research and Development,Abuja,0.02,"$36,040.",$721.,"$36,761.",Poor
+Leena Bruckshaw,Male,Research and Development,Lagos,0.02,"$74,280.","$1,486.","$75,766.",Poor
+Inger Chapelhow,Female,Research and Development,Abuja,0.02,"$84,310.","$1,686.","$85,996.",Poor
+Dayle O'Luney,Female,Research and Development,Lagos,0.02,"$46,750.",$935.,"$47,685.",Poor
+Trace Sidsaff,Female,Accounting,Kaduna,0.012,"$51,200.",$614.,"$51,814.",Poor
+Charmaine Howie,Male,Accounting,Kaduna,0.012,"$56,810.",$682.,"$57,492.",Poor
+Rois Garrigan,Male,Accounting,Kaduna,0.012,"$61,430.",$737.,"$62,167.",Poor
+Patricia Dwelly,Male,Accounting,Lagos,0.012,"$91,500.","$1,098.","$92,598.",Poor
+Kissiah Maydway,Male,Accounting,Lagos,0.012,"$106,460.","$1,278.","$107,738.",Poor
+Ryon Baroch,Male,Accounting,Abuja,0.012,"$43,590.",$523.,"$44,113.",Poor
+Loren Bentote,Male,Accounting,Kaduna,0.012,"$56,280.",$675.,"$56,955.",Poor
+Caty Janas,Male,Accounting,Lagos,0.012,"$93,210.","$1,119.","$94,329.",Poor
+Mata Fishley,Male,Accounting,Abuja,0.012,"$102,520.","$1,230.","$103,750.",Poor
+Irwin Kirsche,Female,Accounting,Kaduna,0.012,"$36,150.",$434.,"$36,584.",Poor
+Dane Wudeland,Female,Accounting,Kaduna,0.012,"$80,030.",$960.,"$80,990.",Poor
+Codie Gaunson,Male,Accounting,Abuja,0.012,"$83,590.","$1,003.","$84,593.",Poor
+Edd MacKnockiter,Male,Accounting,Lagos,0.012,"$119,020.","$1,428.","$120,448.",Poor
+Ruthanne Beadnell,Female,Accounting,Kaduna,0.012,"$103,610.","$1,243.","$104,853.",Poor
+Grover Cooksey,Male,Services,Kaduna,0.015,"$74,620.","$1,119.","$75,739.",Poor
+Fred Dudeney,Male,Services,Lagos,0.015,"$88,690.","$1,330.","$90,020.",Poor
+Jolynn Behnecken,Female,Services,Kaduna,0.015,"$85,180.","$1,278.","$86,458.",Poor
+Giselbert Newlands,Male,Services,Abuja,0.015,"$47,650.",$715.,"$48,365.",Poor
+Hilliary Roarty,Male,Services,Kaduna,0.015,"$104,770.","$1,572.","$106,342.",Poor
+Lamar Blewitt,Male,Services,Lagos,0.015,"$41,910.",$629.,"$42,539.",Poor
+Burtie Moulden,Female,Services,Lagos,0.015,"$116,220.","$1,743.","$117,963.",Poor
+Petey Probey,Male,Services,Kaduna,0.015,"$31,630.",$474.,"$32,104.",Poor
+Collin Jagson,Male,Services,Abuja,0.015,"$100,420.","$1,506.","$101,926.",Poor
+Clemmie Hebblewaite,Male,Services,Kaduna,0.015,"$54,130.",$812.,"$54,942.",Poor
+Karlen McCaffrey,Female,Services,Kaduna,0.015,"$71,230.","$1,068.","$72,298.",Poor
+Jacobo Lasham,Female,Services,Kaduna,0.015,"$51,320.",$770.,"$52,090.",Poor
+Inge Creer,Female,Services,Lagos,0.015,"$69,060.","$1,036.","$70,096.",Poor
+Berna Dubery,Male,Services,Kaduna,0.015,"$69,730.","$1,046.","$70,776.",Poor
+Chas Happel,Female,Services,Kaduna,0.015,"$30,940.",$464.,"$31,404.",Poor
+Cindi McDuffy,Female,Services,Abuja,0.015,"$87,930.","$1,319.","$89,249.",Poor
+Katey Cadany,Male,Services,Abuja,0.015,"$92,010.","$1,380.","$93,390.",Poor
+Zach Polon,Male,Marketing,Kaduna,0.013,"$53,540.",$696.,"$54,236.",Poor
+Daryn Kniveton,Female,Marketing,Lagos,0.013,"$108,390.","$1,409.","$109,799.",Poor
+Kienan Epinay,Male,Marketing,Kaduna,0.013,"$91,120.","$1,185.","$92,305.",Poor
+Thedrick Rogeon,Male,Marketing,Kaduna,0.013,"$110,950.","$1,442.","$112,392.",Poor
+Lark Ironmonger,Male,Marketing,Abuja,0.013,"$85,780.","$1,115.","$86,895.",Poor
+Joey Keedwell,Female,Marketing,Kaduna,0.013,"$107,440.","$1,397.","$108,837.",Poor
+Julian Andrassy,Female,Marketing,Lagos,0.013,"$113,980.","$1,482.","$115,462.",Poor
+Sarajane Peachey,Female,Marketing,Abuja,0.013,"$107,580.","$1,399.","$108,979.",Poor
+Barny Fairweather,Male,Marketing,Lagos,0.013,"$77,130.","$1,003.","$78,133.",Poor
+Nanice Boatwright,Male,Marketing,Abuja,0.013,"$105,870.","$1,376.","$107,246.",Poor
+Esmaria Denecamp,Male,Marketing,Kaduna,0.013,"$48,980.",$637.,"$49,617.",Poor
+Irena Trousdell,Female,Marketing,Kaduna,0.013,"$29,530.",$384.,"$29,914.",Poor
+Kath Bletsoe,Male,Marketing,Abuja,0.013,"$65,700.",$854.,"$66,554.",Poor
+Orlando Gorstidge,Male,Marketing,Lagos,0.013,"$40,750.",$530.,"$41,280.",Poor
+Adi Seawright,Female,Marketing,Kaduna,0.013,"$48,590.",$632.,"$49,222.",Poor
+Ches Bonnell,Male,Sales,Lagos,0.088,"$88,050.","$7,748.","$95,798.",Very Good
+Myrle Prandoni,Male,Sales,Kaduna,0.088,"$62,200.","$5,474.","$67,674.",Very Good
+Marjie Bamford,Male,Sales,Abuja,0.088,"$80,770.","$7,108.","$87,878.",Very Good
+Seward Kubera,Male,Engineering,Abuja,0.061,"$43,330.","$2,643.","$45,973.",Very Good
+Frederik Dartan,Male,Engineering,Abuja,0.061,"$62,090.","$3,787.","$65,877.",Very Good
+Barnaby Farnall,Male,Engineering,Kaduna,0.061,"$118,800.","$7,247.","$126,047.",Very Good
+Ali Roubert,Male,Engineering,Abuja,0.061,"$69,460.","$4,237.","$73,697.",Very Good
+Kikelia Ellor,Male,Engineering,Kaduna,0.061,"$34,620.","$2,112.","$36,732.",Very Good
+Alexis Gotfrey,Male,Engineering,Lagos,0.061,"$114,470.","$6,983.","$121,453.",Very Good
+Fidela Dowey,Female,Engineering,Lagos,0.061,"$86,740.","$5,291.","$92,031.",Very Good
+Cletus McGarahan,Female,Engineering,Kaduna,0.061,"$114,430.","$6,980.","$121,410.",Very Good
+Reinald Franken,Female,Engineering,Abuja,0.061,"$28,870.","$1,761.","$30,631.",Very Good
+Isidora Guido,Male,Engineering,Abuja,0.061,"$43,150.","$2,632.","$45,782.",Very Good
+Saunders Blumson,Male,Legal,Kaduna,0.064,"$56,370.","$3,608.","$59,978.",Very Good
+Rasla Fisby,Male,Legal,Abuja,0.064,"$109,000.","$6,976.","$115,976.",Very Good
+Yasmeen Klimkiewich,Female,Legal,Abuja,0.064,"$48,140.","$3,081.","$51,221.",Very Good
+Amery Ofer,Female,Legal,Abuja,0.064,"$111,050.","$7,107.","$118,157.",Very Good
+Beryl Burnsyde,Male,Legal,Abuja,0.064,"$29,770.","$1,905.","$31,675.",Very Good
+Gabie Millichip,Male,Legal,Abuja,0.064,"$49,760.","$3,185.","$52,945.",Very Good
+Dolley Grayley,Female,Legal,Abuja,0.064,"$48,980.","$3,135.","$52,115.",Very Good
+Arty Duigan,Male,Legal,Abuja,0.064,"$108,600.","$6,950.","$115,550.",Very Good
+Alyosha Riquet,Male,Legal,Abuja,0.064,"$89,840.","$5,750.","$95,590.",Very Good
+Adelina Cheeseman,Male,Support,Kaduna,0.076,"$45,510.","$3,459.","$48,969.",Very Good
+Ambrosio Daniely,Female,Support,Kaduna,0.076,"$80,060.","$6,085.","$86,145.",Very Good
+Daven Smout,Female,Support,Abuja,0.076,"$50,800.","$3,861.","$54,661.",Very Good
+Hector Isard,Male,Support,Abuja,0.076,"$116,970.","$8,890.","$125,860.",Very Good
+Barbara-anne Kenchington,Female,Support,Kaduna,0.076,"$88,030.","$6,690.","$94,720.",Very Good
+Jedd Moretto,Male,Support,Kaduna,0.076,"$63,720.","$4,843.","$68,563.",Very Good
+Madlen Ashburner,Male,Support,Abuja,0.076,"$42,240.","$3,210.","$45,450.",Very Good
+Win Arthurs,Female,Support,Abuja,0.076,"$43,200.","$3,283.","$46,483.",Very Good
+Wald Bountiff,Female,Support,Lagos,0.076,"$28,970.","$2,202.","$31,172.",Very Good
+Ianthe Sayre,Male,Support,Abuja,0.076,"$110,730.","$8,415.","$119,145.",Very Good
+Beverie Moffet,Female,Support,Abuja,0.076,"$75,970.","$5,774.","$81,744.",Very Good
+Pancho De Ortega,Male,Support,Kaduna,0.076,"$99,780.","$7,583.","$107,363.",Very Good
+Lincoln Cord,Female,Support,Abuja,0.076,"$63,560.","$4,831.","$68,391.",Very Good
+Chauncey Schild,Female,Support,Lagos,0.076,"$107,340.","$8,158.","$115,498.",Very Good
+Alfred Peplay,Female,Human Resources,Lagos,0.076,"$60,580.","$4,604.","$65,184.",Very Good
+Phillipp Nekrews,Male,Human Resources,Kaduna,0.076,"$71,330.","$5,421.","$76,751.",Very Good
+Gearard Wixon,Male,Human Resources,Abuja,0.076,"$106,190.","$8,070.","$114,260.",Very Good
+Hali Behnecke,Male,Human Resources,Kaduna,0.076,"$65,570.","$4,983.","$70,553.",Very Good
+Erin Androsik,Male,Human Resources,Lagos,0.076,"$48,530.","$3,688.","$52,218.",Very Good
+Virginia McConville,Female,Human Resources,Abuja,0.076,"$76,900.","$5,844.","$82,744.",Very Good
+Timmi Durran,Male,Human Resources,Abuja,0.076,"$68,430.","$5,201.","$73,631.",Very Good
+Bennett Gimenez,Female,Human Resources,Abuja,0.076,"$36,460.","$2,771.","$39,231.",Very Good
+Minetta Parsons,Female,Human Resources,Abuja,0.076,"$110,770.","$8,419.","$119,189.",Very Good
+Adella Hartshorne,Female,Human Resources,Abuja,0.076,"$41,160.","$3,128.","$44,288.",Very Good
+Collette Blackaller,Female,Human Resources,Kaduna,0.076,"$42,380.","$3,221.","$45,601.",Very Good
+Aindrea Lenormand,Female,Human Resources,Abuja,0.076,"$71,180.","$5,410.","$76,590.",Very Good
+Tatum Hush,Female,Human Resources,Abuja,0.076,"$53,240.","$4,046.","$57,286.",Very Good
+Mickey Pybus,Male,Human Resources,Kaduna,0.076,"$87,850.","$6,677.","$94,527.",Very Good
+Judi Cosgriff,Female,Human Resources,Abuja,0.076,"$86,390.","$6,566.","$92,956.",Very Good
+Farris Ditchfield,Male,Human Resources,Kaduna,0.076,"$58,030.","$4,410.","$62,440.",Very Good
+Anni Izzard,Male,Human Resources,Abuja,0.076,"$103,490.","$7,865.","$111,355.",Very Good
+Yvette Bett,Male,Human Resources,Lagos,0.076,"$76,320.","$5,800.","$82,120.",Very Good
+Evanne Levens,Male,Human Resources,Kaduna,0.076,"$36,880.","$2,803.","$39,683.",Very Good
+Marcellina Kitt,Female,Business Development,Kaduna,0.073,"$78,500.","$5,730.","$84,230.",Very Good
+Garwood Penhale,Female,Business Development,Kaduna,0.073,"$96,640.","$7,055.","$103,695.",Very Good
+Evangelia Gowers,Male,Business Development,Kaduna,0.073,"$118,450.","$8,647.","$127,097.",Very Good
+Kincaid Hellicar,Male,Business Development,Kaduna,0.073,"$96,610.","$7,053.","$103,663.",Very Good
+Shayne Stegel,Male,Business Development,Abuja,0.073,"$70,270.","$5,130.","$75,400.",Very Good
+Juanita Trembey,Male,Business Development,Kaduna,0.073,"$54,780.","$3,999.","$58,779.",Very Good
+Candy Aindrais,Female,Business Development,Lagos,0.073,"$116,590.","$8,511.","$125,101.",Very Good
+Abbie Tann,Female,Business Development,Lagos,0.073,"$116,520.","$8,506.","$125,026.",Very Good
+Meryl Waggatt,Female,Business Development,Kaduna,0.073,"$77,060.","$5,625.","$82,685.",Very Good
+Carlin Demke,Male,Business Development,Lagos,0.073,"$110,040.","$8,033.","$118,073.",Very Good
+Susy Challoner,Female,Business Development,Kaduna,0.073,"$29,890.","$2,182.","$32,072.",Very Good
+Tammi Lackham,Female,Business Development,Abuja,0.073,"$61,690.","$4,503.","$66,193.",Very Good
+Van Tuxwell,Female,Business Development,Abuja,0.073,"$80,700.","$5,891.","$86,591.",Very Good
+Murial Ickovici,Female,Business Development,Kaduna,0.073,"$72,500.","$5,292.","$77,792.",Very Good
+Thorvald Milliken,Female,Business Development,Lagos,0.073,"$33,030.","$2,411.","$35,441.",Very Good
+Pierson Measham,Male,Business Development,Kaduna,0.073,"$103,160.","$7,531.","$110,691.",Very Good
+Wyn Treadger,Female,Business Development,Kaduna,0.073,"$69,190.","$5,051.","$74,241.",Very Good
+Lil Ibberson,Male,Business Development,Kaduna,0.073,"$75,920.","$5,542.","$81,462.",Very Good
+Ardella Dyment,Female,Business Development,Kaduna,0.073,"$70,650.","$5,157.","$75,807.",Very Good
+Brodie Grimstead,Male,Business Development,Kaduna,0.073,"$117,850.","$8,603.","$126,453.",Very Good
+Leslie Cardoso,Female,Business Development,Abuja,0.073,"$103,340.","$7,544.","$110,884.",Very Good
+Sheff Gerdts,Male,Business Development,Lagos,0.073,"$89,160.","$6,509.","$95,669.",Very Good
+Gunar Cockshoot,Male,Business Development,Abuja,0.073,"$48,950.","$3,573.","$52,523.",Very Good
+Vic Radolf,Female,Product Management,Abuja,0.062,"$62,780.","$3,892.","$66,672.",Very Good
+Issie Crippes,Female,Product Management,Abuja,0.062,"$81,720.","$5,067.","$86,787.",Very Good
+Euell Willoughley,Male,Product Management,Kaduna,0.062,"$105,800.","$6,560.","$112,360.",Very Good
+Richy Gray,Female,Product Management,Kaduna,0.062,"$89,830.","$5,569.","$95,399.",Very Good
+Ava Whordley,Female,Product Management,Abuja,0.062,"$104,210.","$6,461.","$110,671.",Very Good
+Jordain Sparkwill,Female,Product Management,Abuja,0.062,"$107,660.","$6,675.","$114,335.",Very Good
+Camille Baldinotti,Female,Product Management,Lagos,0.062,"$41,700.","$2,585.","$44,285.",Very Good
+Von Boeter,Male,Product Management,Lagos,0.062,"$36,370.","$2,255.","$38,625.",Very Good
+Vlad Strangeway,Male,Product Management,Abuja,0.062,"$77,740.","$4,820.","$82,560.",Very Good
+Millard Brakewell,Male,Product Management,Kaduna,0.062,"$76,560.","$4,747.","$81,307.",Very Good
+L;urette Bontein,Male,Product Management,Abuja,0.062,"$47,650.","$2,954.","$50,604.",Very Good
+Crissie Cordel,Female,Product Management,Abuja,0.062,"$41,570.","$2,577.","$44,147.",Very Good
+Shellysheldon Ellerman,Female,Product Management,Abuja,0.062,"$34,470.","$2,137.","$36,607.",Very Good
+Cathi Delgardo,Male,Product Management,Abuja,0.062,"$111,910.","$6,938.","$118,848.",Very Good
+Sharron Petegree,Female,Product Management,Kaduna,0.062,"$87,290.","$5,412.","$92,702.",Very Good
+Marney O'Breen,Female,Product Management,Kaduna,0.062,"$65,920.","$4,087.","$70,007.",Very Good
+Nani Brockley,Male,Product Management,Abuja,0.062,"$47,000.","$2,914.","$49,914.",Very Good
+Bordy Yatman,Female,Product Management,Lagos,0.062,"$108,450.","$6,724.","$115,174.",Very Good
+Bogey Hitcham,Male,Product Management,Abuja,0.062,"$106,170.","$6,583.","$112,753.",Very Good
+Curtice Advani,Male,Product Management,Lagos,0.062,"$59,810.","$3,708.","$63,518.",Very Good
+Nessi Delves,Male,Training,Kaduna,0.063,"$56,830.","$3,580.","$60,410.",Very Good
+Easter Pyke,Female,Training,Kaduna,0.063,"$95,680.","$6,028.","$101,708.",Very Good
+Ebonee Roxburgh,Male,Training,Kaduna,0.063,"$67,950.","$4,281.","$72,231.",Very Good
+Josie Barnson,Female,Training,Kaduna,0.063,"$74,110.","$4,669.","$78,779.",Very Good
+Robbert Mandrier,Female,Training,Abuja,0.063,"$98,020.","$6,175.","$104,195.",Very Good
+Felipe Parkman,Female,Training,Abuja,0.063,"$90,150.","$5,679.","$95,829.",Very Good
+Nicole Blowfelde,Female,Training,Kaduna,0.063,"$59,560.","$3,752.","$63,312.",Very Good
+Minna Showler,Female,Training,Kaduna,0.063,"$105,370.","$6,638.","$112,008.",Very Good
+Isa Mogie,Female,Training,Kaduna,0.063,"$50,950.","$3,210.","$54,160.",Very Good
+Fancy Bonin,Male,Training,Lagos,0.063,"$84,680.","$5,335.","$90,015.",Very Good
+Rhody Odhams,Male,Training,Lagos,0.063,"$103,600.","$6,527.","$110,127.",Very Good
+Vernor Atyea,Female,Training,Kaduna,0.063,"$102,930.","$6,485.","$109,415.",Very Good
+Ewart Hovel,Female,Training,Lagos,0.063,"$116,770.","$7,357.","$124,127.",Very Good
+Lindi Morfey,Male,Training,Kaduna,0.063,"$99,470.","$6,267.","$105,737.",Very Good
+Torrance Collier,Female,Training,Lagos,0.063,"$96,140.","$6,057.","$102,197.",Very Good
+Nerissa Kavanagh,Male,Training,Abuja,0.063,"$84,170.","$5,303.","$89,473.",Very Good
+Georg Dinnage,Male,Training,Kaduna,0.063,"$88,330.","$5,565.","$93,895.",Very Good
+Antone Tolmie,Male,Training,Kaduna,0.063,"$110,820.","$6,982.","$117,802.",Very Good
+Luce Beentjes,Male,Training,Abuja,0.063,"$48,180.","$3,035.","$51,215.",Very Good
+Mallorie Waber,Male,Training,Lagos,0.063,"$60,570.","$3,816.","$64,386.",Very Good
+Ewart Laphorn,Female,Training,Kaduna,0.063,"$119,110.","$7,504.","$126,614.",Very Good
+William Reeveley,Male,Training,Abuja,0.063,"$53,870.","$3,394.","$57,264.",Very Good
+Gerald Caple,Male,Training,Kaduna,0.063,"$59,300.","$3,736.","$63,036.",Very Good
+Felita Whitloe,Male,Training,Kaduna,0.063,"$63,450.","$3,997.","$67,447.",Very Good
+Lek Scamaden,Female,Training,Abuja,0.063,"$51,860.","$3,267.","$55,127.",Very Good
+Jo-anne Gobeau,Female,Training,Abuja,0.063,"$37,900.","$2,388.","$40,288.",Very Good
+William Reeveley,Male,Training,Abuja,0.063,"$53,870.","$3,394.","$57,264.",Very Good
+Calvin O'Carroll,Female,Research and Development,Abuja,0.084,"$44,450.","$3,734.","$48,184.",Very Good
+Shanon Deverell,Female,Research and Development,Lagos,0.084,"$78,180.","$6,567.","$84,747.",Very Good
+Ashien Gallen,Female,Research and Development,Abuja,0.084,"$115,080.","$9,667.","$124,747.",Very Good
+Gino Groome,Female,Research and Development,Lagos,0.084,"$60,440.","$5,077.","$65,517.",Very Good
+Lonny Caen,Female,Research and Development,Lagos,0.084,"$35,980.","$3,022.","$39,002.",Very Good
+Merrilee Plenty,Female,Research and Development,Abuja,0.084,"$87,620.","$7,360.","$94,980.",Very Good
+Archibald Filliskirk,Male,Research and Development,Abuja,0.084,"$40,400.","$3,394.","$43,794.",Very Good
+Kaine Padly,Male,Research and Development,Abuja,0.084,"$107,700.","$9,047.","$116,747.",Very Good
+Brien Boise,Female,Research and Development,Kaduna,0.084,"$58,100.","$4,880.","$62,980.",Very Good
+Larry Pioch,Male,Research and Development,Abuja,0.084,"$49,670.","$4,172.","$53,842.",Very Good
+Fedora Graffin,Male,Research and Development,Lagos,0.084,"$92,500.","$7,770.","$100,270.",Very Good
+Aloisia Minto,Male,Research and Development,Abuja,0.084,"$41,420.","$3,479.","$44,899.",Very Good
+Ede Mignot,Female,Research and Development,Kaduna,0.084,"$98,640.","$8,286.","$106,926.",Very Good
+Mick Tanguy,Female,Research and Development,Lagos,0.084,"$97,400.","$8,182.","$105,582.",Very Good
+Janina Wolverson,Female,Research and Development,Kaduna,0.084,"$99,680.","$8,373.","$108,053.",Very Good
+Merrilee Plenty,Female,Research and Development,Abuja,0.084,"$87,620.","$7,360.","$94,980.",Very Good
+Edgard Irving,Male,Research and Development,Kaduna,0.084,"$87,290.","$7,332.","$94,622.",Very Good
+Kit Battlestone,Female,Research and Development,Abuja,0.084,"$115,980.","$9,742.","$125,722.",Very Good
+Dayle O'Luney,Female,Research and Development,Abuja,0.084,"$46,750.","$3,927.","$50,677.",Very Good
+Giffer Berlin,Female,Research and Development,Kaduna,0.084,"$92,340.","$7,757.","$100,097.",Very Good
+Rose Shurrocks,Female,Research and Development,Kaduna,0.084,"$32,140.","$2,700.","$34,840.",Very Good
+Lonny Caen,Female,Research and Development,Lagos,0.084,"$35,980.","$3,022.","$39,002.",Very Good
+Inger Chapelhow,Female,Research and Development,Abuja,0.084,"$84,310.","$7,082.","$91,392.",Very Good
+Jeane Bermingham,Male,Research and Development,Kaduna,0.084,"$116,980.","$9,826.","$126,806.",Very Good
+Stormy Church,Male,Research and Development,Lagos,0.084,"$29,880.","$2,510.","$32,390.",Very Good
+Amaleta Baltzar,Male,Research and Development,Lagos,0.084,"$70,080.","$5,887.","$75,967.",Very Good
+Calvin O'Carroll,Female,Research and Development,Kaduna,0.084,"$44,450.","$3,734.","$48,184.",Very Good
+Shea Mix,Male,Research and Development,Lagos,0.084,"$82,680.","$6,945.","$89,625.",Very Good
+Benni Simounet,Male,Research and Development,Lagos,0.084,"$115,790.","$9,726.","$125,516.",Very Good
+Grady Rochelle,Female,Accounting,Kaduna,0.071,"$69,160.","$4,910.","$74,070.",Very Good
+Linell Compfort,Female,Accounting,Abuja,0.071,"$70,440.","$5,001.","$75,441.",Very Good
+Rory Ravenscroftt,Female,Accounting,Kaduna,0.071,"$45,450.","$3,227.","$48,677.",Very Good
+Yves Pawlik,Male,Accounting,Abuja,0.071,"$57,930.","$4,113.","$62,043.",Very Good
+Pippy Shepperd,Female,Accounting,Kaduna,0.071,"$44,850.","$3,184.","$48,034.",Very Good
+Leslie Baruch,Female,Accounting,Kaduna,0.071,"$103,990.","$7,383.","$111,373.",Very Good
+Hogan Iles,Female,Accounting,Lagos,0.071,"$114,180.","$8,107.","$122,287.",Very Good
+Erv Balmann,Female,Services,Lagos,0.072,"$29,670.","$2,136.","$31,806.",Very Good
+Cindee Saice,Female,Services,Abuja,0.072,"$103,360.","$7,442.","$110,802.",Very Good
+Radcliffe Fairpool,Female,Services,Lagos,0.072,"$60,760.","$4,375.","$65,135.",Very Good
+Emmye Corry,Male,Services,Abuja,0.072,"$109,030.","$7,850.","$116,880.",Very Good
+Dulsea Folkes,Female,Services,Lagos,0.072,"$42,160.","$3,036.","$45,196.",Very Good
+Pate Beardsley,Male,Services,Lagos,0.072,"$85,880.","$6,183.","$92,063.",Very Good
+Fred Dudeney,Male,Services,Abuja,0.072,"$88,690.","$6,386.","$95,076.",Very Good
+Michale Rolf,Male,Services,Lagos,0.072,"$111,820.","$8,051.","$119,871.",Very Good
+Chrisy Kyme,Female,Marketing,Lagos,0.099,"$99,200.","$9,821.","$109,021.",Very Good
+Cara Havers,Male,Marketing,Kaduna,0.099,"$89,610.","$8,871.","$98,481.",Very Good
+Jessica Callcott,Female,Marketing,Lagos,0.099,"$66,020.","$6,536.","$72,556.",Very Good
+Cleveland Pottiphar,Female,Marketing,Lagos,0.099,"$74,600.","$7,385.","$81,985.",Very Good
+Maisie Shotboulte,Female,Marketing,Abuja,0.099,"$71,210.","$7,050.","$78,260.",Very Good
+Aile Strathearn,Female,Marketing,Lagos,0.099,"$114,600.","$11,345.","$125,945.",Very Good
+Jakob Philippe,Male,Marketing,Kaduna,0.099,"$51,910.","$5,139.","$57,049.",Very Good
+Cara Havers,Male,Marketing,Lagos,0.099,"$89,610.","$8,871.","$98,481.",Very Good
+Delora Arendt,Female,Marketing,Abuja,0.099,"$67,620.","$6,694.","$74,314.",Very Good
+Mariann Mowat,Male,Marketing,Kaduna,0.099,"$32,620.","$3,229.","$35,849.",Very Good
+Jan Morforth,Male,Marketing,Abuja,0.099,"$48,170.","$4,769.","$52,939.",Very Good
+Beatriz Bateson,Male,Marketing,Kaduna,0.099,"$89,090.","$8,820.","$97,910.",Very Good
+North Bertomeu,Female,Marketing,Abuja,0.099,"$104,900.","$10,385.","$115,285.",Very Good
+Rudyard Tomsa,Female,Marketing,Kaduna,0.099,"$43,900.","$4,346.","$48,246.",Very Good
+Reube Sushams,Male,Marketing,Kaduna,0.099,"$90,130.","$8,923.","$99,053.",Very Good
+Tabbatha Pickston,Male,Marketing,Abuja,0.099,"$72,040.","$7,132.","$79,172.",Very Good
+Xavier Filipic,Female,Marketing,Kaduna,0.099,"$31,050.","$3,074.","$34,124.",Very Good
+Packston Joanic,Male,Marketing,Kaduna,0.099,"$51,860.","$5,134.","$56,994.",Very Good
+Conchita Soden,Male,Marketing,Abuja,0.099,"$74,410.","$7,367.","$81,777.",Very Good
+Reggie Taylerson,Male,Marketing,Lagos,0.099,"$87,610.","$8,673.","$96,283.",Very Good
+Carolyn Attack,Female,Marketing,Lagos,0.099,"$70,760.","$7,005.","$77,765.",Very Good
+Oliy Feeney,Female,Marketing,Lagos,0.099,"$42,970.","$4,254.","$47,224.",Very Good
+Caro Hainsworth,Male,Marketing,Kaduna,0.099,"$77,470.","$7,670.","$85,140.",Very Good
+Letisha Carrett,Female,Sales,Abuja,0.005,"$84,600.",$423.,"$85,023.",Very Poor
+De witt Lottrington,Female,Sales,Abuja,0.005,"$98,360.",$492.,"$98,852.",Very Poor
+Cathrin Yanuk,Male,Sales,Lagos,0.005,"$44,120.",$221.,"$44,341.",Very Poor
+Faina Durand,Male,Sales,Kaduna,0.005,"$114,650.",$573.,"$115,223.",Very Poor
+Marmaduke Worssam,Female,Engineering,Abuja,0.005,"$78,380.",$392.,"$78,772.",Very Poor
+Lamond Douthwaite,Male,Engineering,Lagos,0.005,"$90,530.",$453.,"$90,983.",Very Poor
+Dennison Crosswaite,Male,Legal,Abuja,0.005,"$90,700.",$454.,"$91,154.",Very Poor
+Bayard Gendricke,Male,Legal,Kaduna,0.005,"$40,980.",$205.,"$41,185.",Very Poor
+Clo Jimpson,Male,Legal,Lagos,0.005,"$57,620.",$288.,"$57,908.",Very Poor
+Aeriell Cuell,Male,Legal,Abuja,0.005,"$108,290.",$541.,"$108,831.",Very Poor
+Hans Bucke,Male,Legal,Kaduna,0.005,"$78,560.",$393.,"$78,953.",Very Poor
+Demetria Le Estut,Female,Support,Abuja,0.005,"$75,720.",$379.,"$76,099.",Very Poor
+Ronnie Mesias,Male,Support,Kaduna,0.005,"$86,360.",$432.,"$86,792.",Very Poor
+Mendel Gentsch,Male,Human Resources,Lagos,0.005,"$28,330.",$142.,"$28,472.",Very Poor
+Cordelia Djuricic,Female,Human Resources,Abuja,0.005,"$65,350.",$327.,"$65,677.",Very Poor
+Kelci Walkden,Male,Human Resources,Kaduna,0.005,"$57,090.",$285.,"$57,375.",Very Poor
+Jarad Barbrook,Female,Human Resources,Abuja,0.005,"$31,200.",$156.,"$31,356.",Very Poor
+Krysta Elacoate,Male,Human Resources,Abuja,0.005,"$106,930.",$535.,"$107,465.",Very Poor
+Irvine Blenkin,Male,Human Resources,Abuja,0.005,"$79,590.",$398.,"$79,988.",Very Poor
+Layton Kierans,Male,Human Resources,Kaduna,0.005,"$113,790.",$569.,"$114,359.",Very Poor
+Kelly Corkitt,Female,Human Resources,Lagos,0.005,"$85,260.",$426.,"$85,686.",Very Poor
+Kakalina Stanaway,Male,Human Resources,Kaduna,0.005,"$97,020.",$485.,"$97,505.",Very Poor
+Erin Androsik,Male,Human Resources,Kaduna,0.005,"$48,530.",$243.,"$48,773.",Very Poor
+Cecilla Joselevitch,Female,Human Resources,Abuja,0.005,"$77,840.",$389.,"$78,229.",Very Poor
+Baxter Brocks,Female,Human Resources,Abuja,0.005,"$39,680.",$198.,"$39,878.",Very Poor
+Brose MacCorkell,Female,Human Resources,Lagos,0.005,"$35,940.",$180.,"$36,120.",Very Poor
+Lea Chaplin,Female,Human Resources,Kaduna,0.005,"$73,490.",$367.,"$73,857.",Very Poor
+Alida Welman,Male,Human Resources,Lagos,0.005,"$69,860.",$349.,"$70,209.",Very Poor
+Wendel Malletratt,Male,Business Development,Kaduna,0.005,"$67,660.",$338.,"$67,998.",Very Poor
+Gwenore Scotchmer,Female,Business Development,Kaduna,0.005,"$105,290.",$526.,"$105,816.",Very Poor
+Katya Hundy,Male,Business Development,Kaduna,0.005,"$88,510.",$443.,"$88,953.",Very Poor
+Codi Beck,Female,Business Development,Lagos,0.005,"$40,560.",$203.,"$40,763.",Very Poor
+Norrie Grahl,Male,Business Development,Abuja,0.005,"$42,950.",$215.,"$43,165.",Very Poor
+Adolph McNalley,Male,Business Development,Abuja,0.005,"$85,920.",$430.,"$86,350.",Very Poor
+Lorain Tew,Female,Business Development,Lagos,0.005,"$71,590.",$358.,"$71,948.",Very Poor
+Lissy McCoy,Female,Business Development,Abuja,0.005,"$86,230.",$431.,"$86,661.",Very Poor
+Amii Elms,Female,Business Development,Kaduna,0.005,"$53,920.",$270.,"$54,190.",Very Poor
+Sharl Bendson,Female,Business Development,Abuja,0.005,"$33,630.",$168.,"$33,798.",Very Poor
+Rogers Rosenthaler,Female,Business Development,Lagos,0.005,"$91,190.",$456.,"$91,646.",Very Poor
+Van Tuxwell,Female,Business Development,Abuja,0.005,"$80,700.",$404.,"$81,104.",Very Poor
+Sarajane Scourge,Female,Business Development,Abuja,0.005,"$58,830.",$294.,"$59,124.",Very Poor
+Trix Lutsch,Male,Business Development,Abuja,0.005,"$106,400.",$532.,"$106,932.",Very Poor
+Christoph Stretton,Female,Business Development,Abuja,0.005,"$90,240.",$451.,"$90,691.",Very Poor
+Addi Studdeard,Female,Product Management,Lagos,0.005,"$72,500.",$362.,"$72,862.",Very Poor
+Sharity Brands,Male,Product Management,Abuja,0.005,"$104,080.",$520.,"$104,600.",Very Poor
+Eilis Pavlasek,Male,Product Management,Kaduna,0.005,"$115,190.",$576.,"$115,766.",Very Poor
+Ancell Moretto,Female,Product Management,Abuja,0.005,"$96,920.",$485.,"$97,405.",Very Poor
+Sammy Gantlett,Female,Product Management,Lagos,0.005,"$74,800.",$374.,"$75,174.",Very Poor
+Sibyl Dunkirk,Female,Product Management,Kaduna,0.005,"$86,570.",$433.,"$87,003.",Very Poor
+Bari Toffano,Male,Product Management,Kaduna,0.005,"$106,780.",$534.,"$107,314.",Very Poor
+Corny Linturn,Female,Product Management,Kaduna,0.005,"$47,960.",$240.,"$48,200.",Very Poor
+Melva Jickells,Female,Product Management,Lagos,0.005,"$68,800.",$344.,"$69,144.",Very Poor
+Bogey Hitcham,Male,Product Management,Lagos,0.005,"$106,170.",$531.,"$106,701.",Very Poor
+Adolph Hartin,Male,Product Management,Lagos,0.005,"$89,960.",$450.,"$90,410.",Very Poor
+Addi Studdeard,Female,Product Management,Abuja,0.005,"$72,500.",$362.,"$72,862.",Very Poor
+Mabel Orrow,Male,Product Management,Abuja,0.005,"$31,240.",$156.,"$31,396.",Very Poor
+Lezlie Balmann,Male,Product Management,Kaduna,0.005,"$112,460.",$562.,"$113,022.",Very Poor
+Ansley Gounel,Female,Product Management,Abuja,0.005,"$38,440.",$192.,"$38,632.",Very Poor
+Althea Bronger,Male,Product Management,Kaduna,0.005,"$104,340.",$522.,"$104,862.",Very Poor
+Denni Wiggans,Male,Product Management,Lagos,0.005,"$81,220.",$406.,"$81,626.",Very Poor
+Tarrah Wordsworth,Female,Product Management,Abuja,0.005,"$86,340.",$432.,"$86,772.",Very Poor
+Shellysheldon Mahady,Male,Training,Lagos,0.005,"$114,690.",$573.,"$115,263.",Very Poor
+Christopher Kezourec,Male,Training,Kaduna,0.005,"$55,310.",$277.,"$55,587.",Very Poor
+Michaella Perri,Male,Training,Lagos,0.005,"$75,320.",$377.,"$75,697.",Very Poor
+Mackenzie Hannis,Female,Training,Abuja,0.005,"$57,000.",$285.,"$57,285.",Very Poor
+Lindy Guillet,Male,Training,Abuja,0.005,"$112,780.",$564.,"$113,344.",Very Poor
+Georg Dinnage,Male,Training,Kaduna,0.005,"$88,330.",$442.,"$88,772.",Very Poor
+Diarmid Alman,Female,Training,Abuja,0.005,"$98,200.",$491.,"$98,691.",Very Poor
+Thekla Lynnett,Male,Training,Lagos,0.005,"$53,950.",$270.,"$54,220.",Very Poor
+Virge Garfield,Male,Training,Abuja,0.005,"$110,890.",$554.,"$111,444.",Very Poor
+Dael Bugge,Male,Training,Lagos,0.005,"$62,690.",$313.,"$63,003.",Very Poor
+Mick Titman,Male,Training,Lagos,0.005,"$105,330.",$527.,"$105,857.",Very Poor
+Miguel Woolner,Male,Training,Kaduna,0.005,"$51,740.",$259.,"$51,999.",Very Poor
+Krystal Lambswood,Female,Training,Kaduna,0.005,"$41,600.",$208.,"$41,808.",Very Poor
+Jacklyn Andrioletti,Female,Training,Abuja,0.005,"$86,990.",$435.,"$87,425.",Very Poor
+Rey Chartman,Female,Training,Kaduna,0.005,"$93,960.",$470.,"$94,430.",Very Poor
+Freddy Linford,Female,Training,Kaduna,0.005,"$93,130.",$466.,"$93,596.",Very Poor
+Jeane Bermingham,Male,Research and Development,Kaduna,0.005,"$116,980.",$585.,"$117,565.",Very Poor
+Stormy Church,Male,Research and Development,Lagos,0.005,"$29,880.",$149.,"$30,029.",Very Poor
+Amaleta Baltzar,Male,Research and Development,Lagos,0.005,"$70,080.",$350.,"$70,430.",Very Poor
+Calvin O'Carroll,Female,Research and Development,Kaduna,0.005,"$44,450.",$222.,"$44,672.",Very Poor
+Shea Mix,Male,Research and Development,Lagos,0.005,"$82,680.",$413.,"$83,093.",Very Poor
+Benni Simounet,Male,Research and Development,Lagos,0.005,"$115,790.",$579.,"$116,369.",Very Poor
+Murry Dryburgh,Male,Research and Development,Kaduna,0.005,"$69,070.",$345.,"$69,415.",Very Poor
+Laura Gomar,Female,Research and Development,Lagos,0.005,"$36,860.",$184.,"$37,044.",Very Poor
+Larry Pioch,Male,Research and Development,Abuja,0.005,"$49,670.",$248.,"$49,918.",Very Poor
+Issy McLevie,Male,Research and Development,Kaduna,0.005,"$84,940.",$425.,"$85,365.",Very Poor
+Addia Penwright,Male,Research and Development,Abuja,0.005,"$28,130.",$141.,"$28,271.",Very Poor
+Romona Dimmne,Female,Research and Development,Kaduna,0.005,"$48,250.",$241.,"$48,491.",Very Poor
+Shelbi Aldin,Female,Research and Development,Abuja,0.005,"$40,910.",$205.,"$41,115.",Very Poor
+Bert Yaakov,Male,Research and Development,Kaduna,0.005,"$72,040.",$360.,"$72,400.",Very Poor
+Ruby Cracie,Male,Research and Development,Kaduna,0.005,"$78,710.",$394.,"$79,104.",Very Poor
+Kerwin Blakely,Male,Research and Development,Lagos,0.005,"$68,480.",$342.,"$68,822.",Very Poor
+Calvin O'Carroll,Female,Research and Development,Abuja,0.005,"$44,450.",$222.,"$44,672.",Very Poor
+Shanon Deverell,Female,Research and Development,Lagos,0.005,"$78,180.",$391.,"$78,571.",Very Poor
+Ashien Gallen,Female,Research and Development,Abuja,0.005,"$115,080.",$575.,"$115,655.",Very Poor
+Gino Groome,Female,Research and Development,Lagos,0.005,"$60,440.",$302.,"$60,742.",Very Poor
+Lonny Caen,Female,Research and Development,Lagos,0.005,"$35,980.",$180.,"$36,160.",Very Poor
+Merrilee Plenty,Female,Research and Development,Abuja,0.005,"$87,620.",$438.,"$88,058.",Very Poor
+Archibald Filliskirk,Male,Research and Development,Abuja,0.005,"$40,400.",$202.,"$40,602.",Very Poor
+Kaine Padly,Male,Research and Development,Abuja,0.005,"$107,700.",$538.,"$108,238.",Very Poor
+Brien Boise,Female,Research and Development,Kaduna,0.005,"$58,100.",$290.,"$58,390.",Very Poor
+Leonidas Cavaney,Male,Accounting,Kaduna,0.005,"$52,250.",$261.,"$52,511.",Very Poor
+Clemmie Hebblewaite,Male,Services,Kaduna,0.005,"$54,130.",$271.,"$54,401.",Very Poor
+Karlen McCaffrey,Female,Services,Kaduna,0.005,"$71,230.",$356.,"$71,586.",Very Poor
+Jacobo Lasham,Female,Services,Kaduna,0.005,"$51,320.",$257.,"$51,577.",Very Poor
+Inge Creer,Female,Services,Lagos,0.005,"$69,060.",$345.,"$69,405.",Very Poor
+Berna Dubery,Male,Services,Kaduna,0.005,"$69,730.",$349.,"$70,079.",Very Poor
+Chas Happel,Female,Services,Kaduna,0.005,"$30,940.",$155.,"$31,095.",Very Poor
+Cindi McDuffy,Female,Services,Abuja,0.005,"$87,930.",$440.,"$88,370.",Very Poor
+Katey Cadany,Male,Services,Abuja,0.005,"$92,010.",$460.,"$92,470.",Very Poor
+Grover Cooksey,Male,Services,Kaduna,0.005,"$74,620.",$373.,"$74,993.",Very Poor
+Fred Dudeney,Male,Services,Lagos,0.005,"$88,690.",$443.,"$89,133.",Very Poor
+Jolynn Behnecken,Female,Services,Kaduna,0.005,"$85,180.",$426.,"$85,606.",Very Poor
+Giselbert Newlands,Male,Services,Abuja,0.005,"$47,650.",$238.,"$47,888.",Very Poor
+Hilliary Roarty,Male,Services,Kaduna,0.005,"$104,770.",$524.,"$105,294.",Very Poor
+Lamar Blewitt,Male,Services,Lagos,0.005,"$41,910.",$210.,"$42,120.",Very Poor
+Burtie Moulden,Female,Services,Lagos,0.005,"$116,220.",$581.,"$116,801.",Very Poor
+Petey Probey,Male,Services,Kaduna,0.005,"$31,630.",$158.,"$31,788.",Very Poor
+Collin Jagson,Male,Services,Abuja,0.005,"$100,420.",$502.,"$100,922.",Very Poor
+Barny Fairweather,Male,Marketing,Lagos,0.005,"$77,130.",$386.,"$77,516.",Very Poor
+Nanice Boatwright,Male,Marketing,Abuja,0.005,"$105,870.",$529.,"$106,399.",Very Poor
+Esmaria Denecamp,Male,Marketing,Kaduna,0.005,"$48,980.",$245.,"$49,225.",Very Poor
+Irena Trousdell,Female,Marketing,Kaduna,0.005,"$29,530.",$148.,"$29,678.",Very Poor
+Kath Bletsoe,Male,Marketing,Abuja,0.005,"$65,700.",$328.,"$66,028.",Very Poor
+Orlando Gorstidge,Male,Marketing,Lagos,0.005,"$40,750.",$204.,"$40,954.",Very Poor
+Adi Seawright,Female,Marketing,Kaduna,0.005,"$48,590.",$243.,"$48,833.",Very Poor
+Zach Polon,Male,Marketing,Kaduna,0.005,"$53,540.",$268.,"$53,808.",Very Poor
+Daryn Kniveton,Female,Marketing,Lagos,0.005,"$108,390.",$542.,"$108,932.",Very Poor
+Kienan Epinay,Male,Marketing,Kaduna,0.005,"$91,120.",$456.,"$91,576.",Very Poor
+Thedrick Rogeon,Male,Marketing,Kaduna,0.005,"$110,950.",$555.,"$111,505.",Very Poor
+Lark Ironmonger,Male,Marketing,Abuja,0.005,"$85,780.",$429.,"$86,209.",Very Poor
+Joey Keedwell,Female,Marketing,Kaduna,0.005,"$107,440.",$537.,"$107,977.",Very Poor
+Julian Andrassy,Female,Marketing,Lagos,0.005,"$113,980.",$570.,"$114,550.",Very Poor
+Sarajane Peachey,Female,Marketing,Abuja,0.005,"$107,580.",$538.,"$108,118.",Very Poor
